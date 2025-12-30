@@ -1,2 +1,5 @@
 bertopic
 pandas
+logging
+newspaper3k
+nltk
