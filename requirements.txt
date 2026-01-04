@@ -1,6 +1,6 @@
 bertopic
+sentence_transformers
 pandas
-logging
 newspaper3k
 nltk
 lxml_html_clean
