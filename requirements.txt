@@ -5,3 +5,6 @@ newspaper3k
 nltk
 lxml_html_clean
 selenium
+playwright
+nest_asyncio
+joblib
