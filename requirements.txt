@@ -1,2 +1,7 @@
 bertopic
+sentence_transformers
 pandas
+newspaper3k
+nltk
+lxml_html_clean
+selenium
