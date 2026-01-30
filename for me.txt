@@ -1,0 +1,15 @@
+# umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.0, metric='cosine', random_state=42)
+#minimizes the cluster size so that there are less topics being generated. 
+#this differs from controlling nr_topics because it only reduces topics after they've been generated 
+
+# hdbscan_model = HDBSCAN(min_cluster_size=10, metric='euclidean', cluster_selection_method='eom', prediction_data=True)
+
+# cluster_model = KMeans(n_clusters=10)
+# #removes stop words
+# vectorizer_model = CountVectorizer(stop_words="english", min_df=3, ngram_range=(1, 2)) 
+
+#Topic is the topic number. -1 refers to outliers so it can be ignored.
+#Count is how many rows from title fit that topic
+#Name is the topic name 
+#Representation is the top words that summarize the topic
+#Representative_Docs is the example documents that best illustrate the topic

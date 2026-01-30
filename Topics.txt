@@ -1,0 +1,90 @@
+Topic Name: 0_ai_education_curriculum_intelligence 
+Document Count For Topic: 315 
+Representation and Weights: 
+(classrooms, 0.60) 
+(classroom, 0.57) 
+(ai, 0.56) 
+(educators, 0.52) 
+(education, 0.52) 
+(teachers, 0.51) 
+(students, 0.51) 
+(teaching, 0.51) 
+(teacher, 0.48) 
+(intelligence, 0.48) 
+Representative Docs: 
+The Complete Guide to Using AI in the Education Industry in Raleigh in 2025 
+The Complete Guide to Using AI in the Education Industry in Canada in 2025 
+A Student’s Guide to College and Career in the Age of AI 
+
+Topic Name: 1_classrooms_classroom_ai_educators 
+Document Count For Topic: 281 
+Representation and Weights: 
+(ai, 0.43) 
+(education, 0.42) 
+(openai, 0.39) 
+(universities, 0.39) 
+(google, 0.37) 
+(microsoft, 0.36) 
+(training, 0.36) 
+(teachers, 0.34) 
+(academy, 0.32) 
+(learning, 0.32) 
+Representative Docs: 
+The future of artificial intelligence in education 
+AI in the classroom: Tools, training, and the future of education 
+Artificial intelligence in the classroom 
+
+Topic Name: 2_ai_education_openai_universities 
+Document Count For Topic: 221 
+Representation and Weights: 
+(ai, 0.48) 
+(medical, 0.42) 
+(physicians, 0.39) 
+(intelligence, 0.37) 
+(doctors, 0.37) 
+(medicine, 0.36) 
+(healthcare, 0.35) 
+(artificial, 0.33) 
+(learning, 0.33) 
+(patients, 0.33) 
+Representative Docs: 
+Teachers union partners with Anthropic, Microsoft and OpenAI to launch AI-training academy 
+Google commits $1 billion for AI training at US universities 
+Google to spend $1 billion on AI education and job training in the U.S. 
+
+Topic Name: 3_ai_medical_physicians_intelligence 
+Document Count For Topic: 183 
+Representation and Weights: 
+(chatbots, 0.65) 
+(chatbot, 0.59) 
+(ai, 0.47) 
+(chatgpt, 0.43) 
+(chat, 0.42) 
+(conversations, 0.41) 
+(chats, 0.38) 
+(critical, 0.33) 
+(intelligence, 0.32) 
+(suicide, 0.31) 
+Representative Docs: 
+Application and ethical implication of generative artificial intelligence in medical education: a cross-sectional study among critical care academic physicians in China 
+Awareness and Attitudes Toward Artificial Intelligence Language Generation Models in Medical Education: A Cross-Sectional Questionnaire Study Among Medical Students in Southern China 
+Role and use of race in artificial intelligence and machine learning models related to health 
+
+Topic Name: 4_chatbots_chatbot_ai_chatgpt 
+Document Count For Topic: 98 
+Representation and Weights: 
+(creativity, 0.64) 
+(ai, 0.57) 
+(generative, 0.52) 
+(creative, 0.50) 
+(intelligence, 0.47) 
+(creation, 0.44) 
+(artists, 0.44) 
+(artificial, 0.41) 
+(art, 0.41) 
+(talent, 0.40) 
+Representative Docs: 
+Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy’s death 
+Study Says AI Chatbots Need to Fix Suicide Response, as Family Sues Over ChatGPT Role in Boy's Death 
+Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy's death 
+

@@ -1,0 +1,945 @@
+Article Title: Student Blog: Startups, AI, and Lessons from Singapore 
+Sentiment: Neutral 
+
+Article Title: CEO: Proposed data center in College Station focused on AI, not Bitcoin mining 
+Sentiment: Positive 
+
+Article Title: AI push, new subjects for senior curriculum 
+Sentiment: Neutral 
+
+Article Title: School of Computing introduces AI graduate certificate - University of Nebraska 
+Sentiment: Neutral 
+
+Article Title: Starting my AI and higher education seminar 
+Sentiment: Neutral 
+
+Article Title: Smarter, Faster, More Personal AI Delivered on Consumer Devices with Arm’s New Lumex CSS Platform, Driving Double-Digit Performance Gains 
+Sentiment: Positive 
+
+Article Title: Preparing college students for an AI-powered future 
+Sentiment: Neutral 
+
+Article Title: New curriculum for senior high school students includes plan for AI subject 
+Sentiment: Neutral 
+
+Article Title: New push for AI as Education Minister Erica Stanford announces curriculum changes 
+Sentiment: Neutral 
+
+Article Title: Unleashing Leading On-Device AI Performance and Efficiency with New Arm C1 CPU Cluster 
+Sentiment: Positive 
+
+Article Title: University of North Carolina to appoint first Chief Artificial Intelligence Officer as sector formalizes AI leadership 
+Sentiment: Positive 
+
+Article Title: ECE alum Navrina Singh named to Time100 AI - College of Engineering | University of Wisconsin 
+Sentiment: Neutral 
+
+Article Title: USC Viterbi School of Engineering & School of Advanced Computing introduce new UG course in AI 
+Sentiment: Positive 
+
+Article Title: Ontario college offering help to small business in navigating artificial intelligence 
+Sentiment: Positive 
+
+Article Title: Indonesian student develops world first operational AI-based soil mapping tool in Australia 
+Sentiment: Neutral 
+
+Article Title: MOSAIC: Addressing datacenter bottlenecks to boost AI performance 
+Sentiment: Positive 
+
+Article Title: STC Computer Information Technologies program leads the way for AI education 
+Sentiment: Neutral 
+
+Article Title: Why Canada must lead on AI in higher education now 
+Sentiment: Neutral 
+
+Article Title: Semtech Unveils High-Performance TIAs for 1.6T AI Data Centers 
+Sentiment: Neutral 
+
+Article Title: Introducing enhanced AI assistance in Amazon SageMaker Unified Studio: Agentic chat, Amazon Q Developer CLI, and MCP integration | Amazon Web Services 
+Sentiment: Positive 
+
+Article Title: OPINION | AI ate my major: University students are studying for a future that might not exist 
+Sentiment: Neutral 
+
+Article Title: AI takes over Valpo’s campus, student expresses concerns, implications considered 
+Sentiment: Neutral 
+
+Article Title: Build and scale adoption of AI agents for education with Strands Agents, Amazon Bedrock AgentCore, and LibreChat 
+Sentiment: Positive 
+
+Article Title: NSF grant to BC supports human-centered AI education 
+Sentiment: Positive 
+
+Article Title: Column: Tech bros hate this college student. California should listen to what she's saying about artificial intelligence 
+Sentiment: Negative 
+
+Article Title: Ever-expanding AI continues to invade higher education 
+Sentiment: Neutral 
+
+Article Title: How Ohio universities are embracing artificial intelligence 
+Sentiment: Positive 
+
+Article Title: College Leadership for the AI-Native Generation 
+Sentiment: Neutral 
+
+Article Title: School leaders in Cambridge move on AI policy intended to be ‘thoughtful, age-appropriate’ 
+Sentiment: Neutral 
+
+Article Title: The Complete Guide to Using AI in the Education Industry in Egypt in 2025 
+Sentiment: Neutral 
+
+Article Title: Here's who is behind terrifying AI-enhanced 'swatting' spree targeting US universities 
+Sentiment: Negative 
+
+Article Title: The hidden danger of university students relying on AI 
+Sentiment: Negative 
+
+Article Title: The Complete Guide to Using AI in the Education Industry in Canada in 2025 
+Sentiment: Neutral 
+
+Article Title: Carnegie Learning is one of many companies using artificial intelligence to enhance education - Pittsburgh Post 
+Sentiment: Positive 
+
+Article Title: Accelerating HPC and AI research in universities with Amazon SageMaker HyperPod 
+Sentiment: Positive 
+
+Article Title: Columbia tries using AI to cool off student tensions 
+Sentiment: Negative 
+
+Article Title: Associate professor in ECE advances artificial intelligence collaboration across devices regardless of connection speed 
+Sentiment: Positive 
+
+Article Title: Duke University pilot project examining pros and cons of using artificial intelligence in college - morning 
+Sentiment: Positive 
+
+Article Title: Duke University pilot project examining pros and cons of using artificial intelligence in college 
+Sentiment: Positive 
+
+Article Title: PostgreSQL 18 to boost OLTP performance, but misses AI readiness 
+Sentiment: Positive 
+
+Article Title: Three Reasons Why Universities are Crucial for Understanding AI 
+Sentiment: Neutral 
+
+Article Title: NVIDIA Pledges AI Education Funding for K-12 Programs 
+Sentiment: Neutral 
+
+Article Title: Like many colleges, San Jose State University is embracing AI. That’s a mistake 
+Sentiment: Neutral 
+
+Article Title: Guest column—University of Tennessee “Embraces” Artificial Intelligence, Downplays Dangers 
+Sentiment: Neutral 
+
+Article Title: Bringing the best of AI to university students, free of charge 
+Sentiment: Positive 
+
+Article Title: Indiana University expanding artificial intelligence offerings in the classroom 
+Sentiment: Positive 
+
+Article Title: Army Adopts USC-Developed AI for Education 
+Sentiment: Positive 
+
+Article Title: Artificial intelligence makes a stubborn student - Messenger 
+Sentiment: Positive 
+
+Article Title: Tech check: What to know about cellphones and artificial intelligence as Oregon students return to school - Oregon Public Broadcasting 
+Sentiment: Positive 
+
+Article Title: Right On Crime Releases New Study on Artificial Intelligence in Law Enforcement, Emphasizing Public Safety 
+Sentiment: Positive 
+
+Article Title: Deploy Amazon Bedrock Knowledge Bases using Terraform for RAG-based generative AI applications 
+Sentiment: Positive 
+
+Article Title: University-based AI research 
+Sentiment: Neutral 
+
+Article Title: At Harvard Convocation, College Dean David Deming Tells Freshmen to Prepare for AI Age 
+Sentiment: Neutral 
+
+Article Title: Jane Street's top interns in 2025 have this college AI lab in common 
+Sentiment: Positive 
+
+Article Title: Pearson expands AI-powered Study Prep tool to 1.5 million higher education students in Canada 
+Sentiment: Positive 
+
+Article Title: As technology evolves, Universities embrace Artificial Intelligence 
+Sentiment: Positive 
+
+Article Title: Contributor: How do we prepare college students for the AI world? 
+Sentiment: Neutral 
+
+Article Title: Researchers Unlock processing-in-Interconnect, Scaling AI Performance Beyond Traditional Routing and Switching Systems 
+Sentiment: Neutral 
+
+Article Title: National AI congress in natural resources to spotlight challenges in education, research 
+Sentiment: Positive 
+
+Article Title: AI AS A TOOL FOR INCLUSIVE BILINGUAL EDUCATION 
+Sentiment: Neutral 
+
+Article Title: School Counsellor-oriented Workshop Titled "Career Guidance Through Psychometric and Artificial Intelligence" Commences in Presence of Education Kalon 
+Sentiment: Positive 
+
+Article Title: The Complete Guide to Using AI in the Education Industry in Washington in 2025 
+Sentiment: Neutral 
+
+Article Title: The Complete Guide to Using AI in the Education Industry in Tucson in 2025 
+Sentiment: Neutral 
+
+Article Title: Professor defends new UNSW course on AI art against student backlash despite ‘layer cake of nightmares’ 
+Sentiment: Neutral 
+
+Article Title: AI at the University: Preparing for the future 
+Sentiment: Neutral 
+
+Article Title: Guiding first-year students through the age of AI | Emory University | Atlanta GA 
+Sentiment: Neutral 
+
+Article Title: N.J. university debuts state’s first-ever bachelor’s degree in AI 
+Sentiment: Neutral 
+
+Article Title: Kean University to Offer New Jersey's First Bachelor's Degree in AI 
+Sentiment: Neutral 
+
+Article Title: Education Leaders Call for Rethink on Curriculum and Assessment in AI Age 
+Sentiment: Neutral 
+
+Article Title: Survey: College Students’ Views on AI 
+Sentiment: Neutral 
+
+Article Title: Troubleshooting network connectivity and performance with Cloudflare AI 
+Sentiment: Positive 
+
+Article Title: Reimagining global student enrolment for the AI era 
+Sentiment: Neutral 
+
+Article Title: Frequent use of AI may hinder students' academic performance 
+Sentiment: Neutral 
+
+Article Title: Frequent use of artificial intelligence may hinder students’ academic performance 
+Sentiment: Positive 
+
+Article Title: In Praise of CliffsNotes Study Guides in the Age of AI 
+Sentiment: Positive 
+
+Article Title: AI Agents, Wearable Computing and the Future of Postsecondary Learning 
+Sentiment: Neutral 
+
+Article Title: New research reveals how university students are really using AI 
+Sentiment: Neutral 
+
+Article Title: Talking AI and the future of education with the University of Minnesota 
+Sentiment: Neutral 
+
+Article Title: West Virginia College Partners With Industry to Create AI Program 
+Sentiment: Positive 
+
+Article Title: AI-Powered Education And Career Planner Boosted 
+Sentiment: Positive 
+
+Article Title: Penn State University introduces Bachelor of Science degree in artificial intelligence engineering 
+Sentiment: Positive 
+
+Article Title: 'Easiest thing to do': Lincoln University to re-test entire class in AI crackdown 
+Sentiment: Positive 
+
+Article Title: Lincoln University students told to re-sit exam after concerns AI was used 
+Sentiment: Neutral 
+
+Article Title: UA Little Rock Expands Extended Education with Three New AI Courses to Equip Arkansas Workforce for Tomorrow 
+Sentiment: Neutral 
+
+Article Title: AI academic research: University of Utah cracks global rankings 
+Sentiment: Neutral 
+
+Article Title: ‘One slip and you’re guilty’: University’s unusual AI crackdown rattles students 
+Sentiment: Neutral 
+
+Article Title: Monash University, Indonesia EduVate 2025: Driving Innovation at the Crossroads of AI, Inclusion, and Higher Education Partnerships 
+Sentiment: Positive 
+
+Article Title: Opinion: From personalised tutoring to improved accessibility, why AI can democratise higher education 
+Sentiment: Positive 
+
+Article Title: How AI Is Helping Education Companies in Raleigh Cut Costs and Improve Efficiency 
+Sentiment: Positive 
+
+Article Title: The Complete Guide to Using AI in the Education Industry in Raleigh in 2025 
+Sentiment: Neutral 
+
+Article Title: The Complete Guide to Using AI in the Education Industry in Rochester in 2025 
+Sentiment: Neutral 
+
+Article Title: I'm sorry, but enrolling an AI into art college is just absurd 
+Sentiment: Neutral 
+
+Article Title: University Of Pretoria Ranked No. 1 In SA For Artificial Intelligence Research 
+Sentiment: Positive 
+
+Article Title: The Complete Guide to Using AI in the Education Industry in Nashville in 2025 
+Sentiment: Neutral 
+
+Article Title: Students are relying more and more on AI, undermining the joy of learning | Opinion 
+Sentiment: Positive 
+
+Article Title: The Complete Guide to Using AI in the Education Industry in Omaha in 2025 
+Sentiment: Neutral 
+
+Article Title: New Mexico State University to offer Bachelor of Science in artificial intelligence 
+Sentiment: Positive 
+
+Article Title: Political Science professor joins grant-funded project to advance AI research 
+Sentiment: Neutral 
+
+Article Title: University of Nevada Initiative Brings AI to Freshmen, Faculty 
+Sentiment: Neutral 
+
+Article Title: In State of the University address, Armacost says UND will become North Dakota's AI university 
+Sentiment: Neutral 
+
+Article Title: NSF announces new funding opportunities to advance AI education and build the STEM workforce of the future 
+Sentiment: Positive 
+
+Article Title: Scott Data, Nebraska Engineering partner on new AI makerspace - University of Nebraska 
+Sentiment: Neutral 
+
+Article Title: As the New School Year Begins, This Is How I Use AI as a College Professor 
+Sentiment: Neutral 
+
+Article Title: College students, educators worldwide begin fall semester using Elon’s Student Guide to Artificial Intelligence 
+Sentiment: Positive 
+
+Article Title: Marines Pilot Artificial Intelligence Fellowship at Naval Postgraduate School 
+Sentiment: Positive 
+
+Article Title: Anthropic launches higher education advisory board and AI Fluency courses 
+Sentiment: Neutral 
+
+Article Title: Development and Introduction of a Document Disclosing AI-Use: Exploring Self-Reported Student Rationales for Artificial Intelligence Use in Coursework: A Brief Research Report 
+Sentiment: Positive 
+
+Article Title: 'I think AI is the future': Adrian College offering artificial intelligence major for students 
+Sentiment: Positive 
+
+Article Title: The Radical Changes AI Is Bringing To Higher Education 
+Sentiment: Neutral 
+
+Article Title: WV community colleges expand artificial intelligence training for jobs of the future 
+Sentiment: Positive 
+
+Article Title: RESEARCH AI: INTEGRATING AI AND GAMIFICATION IN HIGHER EDUCATION FOR E-LEARNING OPTIMIZATION AND SOFT SKILLS ASSESSMENT THROUGH A CROSS-STUDY SYNTHESIS 
+Sentiment: Positive 
+
+Article Title: Universities adopting AI tools, but concerns about technology remain 
+Sentiment: Neutral 
+
+Article Title: Building Your University's AI Research Powerhouse: Why Next-Generation Infrastructure is Essential for Discovery and Impact 
+Sentiment: Neutral 
+
+Article Title: Canadian universities are adopting AI tools, but concerns about the technology remain 
+Sentiment: Neutral 
+
+Article Title: Higher education summit: Universities must be reimagined for the AI age 
+Sentiment: Neutral 
+
+Article Title: Opinion: Universities must be reimagined for the AI age 
+Sentiment: Neutral 
+
+Article Title: Metro State University expanding computer science program amid boom in artificial intelligence 
+Sentiment: Positive 
+
+Article Title: Walsh College in Troy Adds Bachelor’s Degree in AI and Machine Learning 
+Sentiment: Neutral 
+
+Article Title: Artificial Intelligence is on the rise in college classrooms, 
+Sentiment: Positive 
+
+Article Title: How AI avatars are revolutionising the student experience at Imperial Business School 
+Sentiment: Neutral 
+
+Article Title: Achieving inclusive healthcare through integrating education and research with AI and personalized curricula 
+Sentiment: Neutral 
+
+Article Title: Osun Backs Curator University to Pioneer Artificial Intelligence Education in Modakeke 
+Sentiment: Positive 
+
+Article Title: Managing student risk AI-version 
+Sentiment: Negative 
+
+Article Title: Clemson completes national AI curriculum program 
+Sentiment: Neutral 
+
+Article Title: Temple College opens manufacturing lab powered by Artificial Intelligence - clipped version 
+Sentiment: Positive 
+
+Article Title: Temple College opens manufacturing lab powered by Artificial Intelligence 
+Sentiment: Positive 
+
+Article Title: USC Viterbi School of Engineering and the USC School of Advanced Computing Launch an Undergraduate Degree in Artificial Intelligence 
+Sentiment: Positive 
+
+Article Title: University of Nevada, Reno launches 'Pack AI' to integrate artificial intelligence 
+Sentiment: Positive 
+
+Article Title: “I was afraid that AGI would kill me.” MIT student dropped out of college over fears that AI would destroy humanity 
+Sentiment: Negative 
+
+Article Title: Computer Science Ph.D. Student Earns Awards for Artificial Intelligence 
+Sentiment: Positive 
+
+Article Title: OCCC joins Amazon AI and machine learning alliance 
+Sentiment: Positive 
+
+Article Title: Carleton University Launches New AI Resource Hub 
+Sentiment: Neutral 
+
+Article Title: Would you use AI study buddy to improve grades? 
+Sentiment: Positive 
+
+Article Title: Empowering students with disabilities: University Startups’ generative AI solution for personalized student pathways 
+Sentiment: Positive 
+
+Article Title: VSU and UGA SBDC Partner to Bring AI Training to Rural Small Businesses 
+Sentiment: Neutral 
+
+Article Title: Artificial Intelligence & Technology Institute Launched at Fairfield University, Stressing Responsible AI Use 
+Sentiment: Positive 
+
+Article Title: New Study from Program for Public Consultation at the University of Maryland Finds Majorities of Republicans and Democrats Overwhelmingly Favor the Government Regulating Artificial Intelligence 
+Sentiment: Positive 
+
+Article Title: AI still isn’t making a serious impact on university education – here’s why 
+Sentiment: Negative 
+
+Article Title: BBVA and the University of Navarra embark on a ground-breaking applied research project into responsible AI 
+Sentiment: Positive 
+
+Article Title: Oxford High School Launches Groundbreaking Artificial Intelligence Course 
+Sentiment: Positive 
+
+Article Title: Inside the AI push at US universities: How Barnard, Columbia, NYU and MIT are preparing students for the 
+Sentiment: Neutral 
+
+Article Title: University of Nevada, Reno launches artificial intelligence initiative, PACK AI 
+Sentiment: Positive 
+
+Article Title: From Community College to Advancing AI, UCLA Engineering Transfer Student Carves His Own Path 
+Sentiment: Neutral 
+
+Article Title: Stability AI and NVIDIA Bring Faster Performance and Simplified Enterprise Deployment with the Stable Diffusion 3.5 NIM 
+Sentiment: Positive 
+
+Article Title: OU announces first university-wide chief artificial intelligence officer as part of next phase of strategic plan 
+Sentiment: Positive 
+
+Article Title: Howard University is Collaborating with Amazon Web Services to Advance AI Learning Across Higher Education 
+Sentiment: Positive 
+
+Article Title: Marion Technical College Awarded National Science Foundation Grant for Artificial Intelligence 
+Sentiment: Positive 
+
+Article Title: Carnegie Mellon University launches new venture to further math research with AI 
+Sentiment: Neutral 
+
+Article Title: 70 AI in Education Statistics & Trends (2025) 
+Sentiment: Neutral 
+
+Article Title: Governing in the Age of AI: Shaping the Future of Advanced Learning in Singapore 
+Sentiment: Positive 
+
+Article Title: A Student’s Guide to College and Career in the Age of AI 
+Sentiment: Neutral 
+
+Article Title: IOs offer a solution to AI over-reliance in higher education 
+Sentiment: Positive 
+
+Article Title: ZAITRA and Xiphos Sign Strategic Partnership to Advance High-Performance Edge-AI Processing for SmallSats 
+Sentiment: Neutral 
+
+Article Title: Northeastern State University launches Artificial Intelligence and Data Analytics degree 
+Sentiment: Positive 
+
+Article Title: These College Professors Will Not Bow Down to A.I. 
+Sentiment: Neutral 
+
+Article Title: (PDF) AI in Higher Education: Opportunities and Challenges 
+Sentiment: Positive 
+
+Article Title: After 48 years at UW, Ed Lazowska reflects on computer science, education, AI, and what’s next 
+Sentiment: Neutral 
+
+Article Title: First Christian University Campus-Wide AI Initiative 
+Sentiment: Neutral 
+
+Article Title: India’s Leading Colleges For Artificial Intelligence And Machine Learning In 2025 
+Sentiment: Positive 
+
+Article Title: Evaluating AI competence for BDS and DHT exams: are they ready? 
+Sentiment: Positive 
+
+Article Title: CU Boulder professor offers advice when considering AI use in academic work 
+Sentiment: Neutral 
+
+Article Title: Universities’ focus on policing is fighting the wrong AI battle 
+Sentiment: Negative 
+
+Article Title: The challenges of AI in higher education and the imperative for competency frameworks 
+Sentiment: Positive 
+
+Article Title: University of Waterloo launches chair in physics of information and AI | Institute for Quantum Computing 
+Sentiment: Neutral 
+
+Article Title: So long, study guides? The AI industry is going after students - Oregon Public Broadcasting 
+Sentiment: Neutral 
+
+Article Title: University of Waterloo launches chair in physics of information and AI 
+Sentiment: Neutral 
+
+Article Title: So long, study guides? The AI industry is going after students 
+Sentiment: Neutral 
+
+Article Title: Penn powers up AI learning for faculty and staff 
+Sentiment: Neutral 
+
+Article Title: UNM joins Brown University in national institute focused on intuitive, trustworthy AI assistants 
+Sentiment: Positive 
+
+Article Title: Opinion | These College Professors Will Not Bow Down to A.I. 
+Sentiment: Neutral 
+
+Article Title: Bringing the best of AI to college students for free 
+Sentiment: Positive 
+
+Article Title: Smarter Admissions: 4 Ways AI is Transforming the Student Recruitment Landscape 
+Sentiment: Positive 
+
+Article Title: City Colleges of Chicago and Amazon-MLU bring enhanced Artificial Intelligence and Machine Learning to the college’s faculty 
+Sentiment: Positive 
+
+Article Title: Enhancing graduate AI education through practical and values-driven curriculum integration 
+Sentiment: Neutral 
+
+Article Title: UNSW’s Scout: Simplifying student life with agentic AI technology - Source Asia 
+Sentiment: Neutral 
+
+Article Title: UNSW’s Scout: Simplifying student life with agentic AI technology 
+Sentiment: Neutral 
+
+Article Title: Reimagining STEM education with artificial intelligence 
+Sentiment: Positive 
+
+Article Title: Opinion: Artificial intelligence and the end of college education 
+Sentiment: Positive 
+
+Article Title: Cross-border Higher Education Cooperation under the Dual Context of Artificial Intelligence and Geopolitics: Opportunities, Challenges, and Pathways 
+Sentiment: Positive 
+
+Article Title: UK universities urged to act fast on AI teaching 
+Sentiment: Neutral 
+
+Article Title: The greatest threat to our universities isn’t funding or AI, it’s China 
+Sentiment: Positive 
+
+Article Title: University appoints Artificial Intelligence Professor 
+Sentiment: Positive 
+
+Article Title: New Northeastern initiative prepares STEM educators for effective AI integration into high school 
+Sentiment: Positive 
+
+Article Title: Colleges Meet Just a Fraction of Demand for AI Training 
+Sentiment: Negative 
+
+Article Title: How AI bias could undermine inclusive education 
+Sentiment: Negative 
+
+Article Title: Dr Richard Whittle appointed as new Professor of Artificial Intelligence and Public Policy at the University of Salford 
+Sentiment: Positive 
+
+Article Title: Humans And AI Collaborate To Review College Admission Essays 
+Sentiment: Neutral 
+
+Article Title: How AI is cheapening tertiary education at Sydney University 
+Sentiment: Neutral 
+
+Article Title: DeGroote School of Business launches innovative AI-driven graduate programs 
+Sentiment: Positive 
+
+Article Title: Coventry University researchers to investigate the impact of AI on religion and how faiths are responding 
+Sentiment: Positive 
+
+Article Title: Trump’s AI Action Plan, AI Could Upend the World Economy, GPT-5 Rumors, AI Tech Layoffs, Advice for College Students & First AI for Therapy 
+Sentiment: Neutral 
+
+Article Title: Brown University to lead national institute focused on intuitive, trustworthy AI assistants 
+Sentiment: Positive 
+
+Article Title: Study shows AI's negative effects as Ohio State University requires students to use AI in classrooms 
+Sentiment: Negative 
+
+Article Title: Why universities in developing countries should prioritise data to maximise AI opportunities 
+Sentiment: Positive 
+
+Article Title: Discover the potential of agentic AI in higher education 
+Sentiment: Neutral 
+
+Article Title: AI for the ancient world: how a new machine learning system can help make sense of Latin inscriptions 
+Sentiment: Positive 
+
+Article Title: Universities meeting fraction of demand for AI skills training 
+Sentiment: Negative 
+
+Article Title: What We’ve Heard About AI Education at Community Colleges 
+Sentiment: Neutral 
+
+Article Title: Universities need to reckon with how AI is being used in professional practice 
+Sentiment: Neutral 
+
+Article Title: Student revolt against AI arts course at top university 
+Sentiment: Positive 
+
+Article Title: Marcelo Claure leads UK for-profit university deal in AI education push 
+Sentiment: Neutral 
+
+Article Title: International project develops framework for AI aligned with academic integrity - 27.07.2025 - NEWS - Turība University 
+Sentiment: Positive 
+
+Article Title: Weekend Reading: From AI prohibition to integration – or why universities must pick up the pace 
+Sentiment: Neutral 
+
+Article Title: Ola: AI College Assistant by Claps Artificial Intelligence, Inc. 
+Sentiment: Positive 
+
+Article Title: New study says Utah is third-most prepared state for AI revolution 
+Sentiment: Positive 
+
+Article Title: Personalized learning support at scale: How UT Austin built a generative AI tutor platform on AWS 
+Sentiment: Positive 
+
+Article Title: AI Action Plan highlights innovation and education, with room for refinement, Northeastern expert says 
+Sentiment: Positive 
+
+Article Title: Are High School Counselors Encouraging AI for College Applications? 
+Sentiment: Positive 
+
+Article Title: AI-generated prof that speaks 80 languages? A divinity school tests the boundaries 
+Sentiment: Positive 
+
+Article Title: A.I. May Be the Future, but First It Has to Study Ancient Roman History 
+Sentiment: Neutral 
+
+Article Title: Oregon’s governor made a deal with Nvidia to get AI education in Oregon schools. What does it mean? 
+Sentiment: Neutral 
+
+Article Title: AI And The College Essay 
+Sentiment: Neutral 
+
+Article Title: AI and inclusion: Breaking barriers and inspiring inclusion in work and learning 
+Sentiment: Positive 
+
+Article Title: Are College Professors Still Relevant In The Age Of AI? 
+Sentiment: Neutral 
+
+Article Title: Oregon’s governor made a deal with Nvidia to get AI education in schools. What will that look like? 
+Sentiment: Positive 
+
+Article Title: Report: Faculty Often Missing From University Decisions on AI 
+Sentiment: Negative 
+
+Article Title: Indiana University launching free, online AI course for students and staff - The Herald 
+Sentiment: Positive 
+
+Article Title: Faculty Demand Voice in AI Decisions as Universities Rush to Embrace Technology 
+Sentiment: Positive 
+
+Article Title: AAUP Report Urges Faculty Oversight in AI Adoption Across Higher Education 
+Sentiment: Neutral 
+
+Article Title: AI pioneer Andrew Ng urges new University of Exeter graduates to “build things that matter” 
+Sentiment: Neutral 
+
+Article Title: F5 and MinIO expand partnership to power high-performance, secure and scalable data pipelines for AI factories 
+Sentiment: Positive 
+
+Article Title: Babcock supports emerging engineers as official AI partner at Formula Student 2024 
+Sentiment: Positive 
+
+Article Title: Data Governance: The Backbone of Artificial Intelligence (AI) Adoption in Higher Education 
+Sentiment: Positive 
+
+Article Title: AI in universities: How large language models are transforming research 
+Sentiment: Neutral 
+
+Article Title: Belhaven University launches first-of-its-kind AI master's degree program. See course details - The Clarion 
+Sentiment: Neutral 
+
+Article Title: Writing University of Michigan Law School optional application essay? Use artificial intelligence, please 
+Sentiment: Positive 
+
+Article Title: NIFA Meets Workforce Needs through AI Education 
+Sentiment: Neutral 
+
+Article Title: University of Lynchburg staffers to discuss AI initiatives on EDUCAUSE webinar 
+Sentiment: Neutral 
+
+Article Title: Only the Humanities Can Save the University from AI 
+Sentiment: Positive 
+
+Article Title: Top HP NVIDIA AI Workstations: Power & Performance | HP® Tech Takes 
+Sentiment: Positive 
+
+Article Title: Zilliz Cloud Enterprise Vector Search Powers High-Performance AI on AWS | Amazon Web Services 
+Sentiment: Positive 
+
+Article Title: American College of Radiology assembles experts to investigate economics of AI 
+Sentiment: Neutral 
+
+Article Title: Integrating AI-generated content tools in higher education: a comparative analysis of interdisciplinary learning outcomes 
+Sentiment: Neutral 
+
+Article Title: Traugott Professor of Mechanical and Aerospace Engineering Bing Dong to Present at Prestigious AI Conference 
+Sentiment: Neutral 
+
+Article Title: The Kogod School of Business at American University Unveils AI Major, Minor, Badges, and Certificates 
+Sentiment: Neutral 
+
+Article Title: UCLA advisory committee will navigate AI’s opportunities and challenges in education 
+Sentiment: Positive 
+
+Article Title: AI Teaching Initiative Launched Across Touro University Campuses 
+Sentiment: Positive 
+
+Article Title: Power, performance and partnerships: Sharon AI’s US data centre play 
+Sentiment: Positive 
+
+Article Title: Power, performance and partnerships: Sharon AI’s US data centre play – ARN 
+Sentiment: Positive 
+
+Article Title: Education First offshoot Efekta launches AI language program 
+Sentiment: Neutral 
+
+Article Title: Shaping inclusive AI futures in higher education 
+Sentiment: Neutral 
+
+Article Title: Why It’s Time for College Admissions to Embrace Artificial Intelligence, Cautiously 
+Sentiment: Positive 
+
+Article Title: Renaissance uses generative AI on AWS to accelerate personalized learning at scale | Amazon Web Services 
+Sentiment: Positive 
+
+Article Title: Law enforcement is learning how to use AI more ethically thanks to a Northeastern expert 
+Sentiment: Positive 
+
+Article Title: ‘I’ve £90k in student debt – for what?’ Graduates share their job-hunting woes amid the AI fallout 
+Sentiment: Negative 
+
+Article Title: Amazon’s AI assistant struggles with diverse dialects, study finds 
+Sentiment: Negative 
+
+Article Title: Amazon’s AI Assistant Struggles With Diverse Dialects, Study Finds 
+Sentiment: Negative 
+
+Article Title: AI is killing the college admissions essay. The implications for prospective students are profound 
+Sentiment: Negative 
+
+Article Title: AI firm appoints new leader to drive growth in the education sector 
+Sentiment: Positive 
+
+Article Title: HKU faces criticism over lenient punishment for student who generated indecent AI images 
+Sentiment: Negative 
+
+Article Title: Apera AI updates Apera Forge design and AI training studio 
+Sentiment: Neutral 
+
+Article Title: Half of Delhi students surveyed rely on AI for studies, but trust and access remain hurdles: Study 
+Sentiment: Positive 
+
+Article Title: 12 Student Team Finalists Advancing in AI Business Plan Competition Announced 
+Sentiment: Neutral 
+
+Article Title: AI Is Coming for College Graduates. We Need to Be Ready. 
+Sentiment: Positive 
+
+Article Title: NVIDIA’s AI university part of new industry-academia drive 
+Sentiment: Neutral 
+
+Article Title: 'Coding is dead': UW computer science program rethinks curriculum for the AI era 
+Sentiment: Negative 
+
+Article Title: Meeder Advisory Services Launches Artificial Intelligence (AI) Education Program for Financial Advisors 
+Sentiment: Positive 
+
+Article Title: University of Toronto professor plans to build 50 AI companies in five years 
+Sentiment: Neutral 
+
+Article Title: Artificial intelligence is reshaping college. Sinclair earmarks $5M to get ahead. 
+Sentiment: Positive 
+
+Article Title: Uni student accused of using AI in assignment fights to clear his name 
+Sentiment: Negative 
+
+Article Title: Pearson at AWS DC Summit 2025: Transforming education through AI-powered learning solutions 
+Sentiment: Positive 
+
+Article Title: Universities Are Racing Toward AI. Is Anyone Watching the Road? 
+Sentiment: Neutral 
+
+Article Title: Professor Hossein Rahnama appointed Edward S. Rogers Chair in Artificial Intelligence and Human Creativity 
+Sentiment: Positive 
+
+Article Title: AI is driving down the price of knowledge – universities have to rethink what they offer 
+Sentiment: Neutral 
+
+Article Title: How Is AI Changing The Way Students Learn At Business School? 
+Sentiment: Neutral 
+
+Article Title: MUSC to launch an AI-integrated curriculum for Healthcare Studies in fall 2025 
+Sentiment: Neutral 
+
+Article Title: Chicago Booth Becomes Latest Top B-School To Add AI Focus To MBA Curriculum 
+Sentiment: Positive 
+
+Article Title: Training the future: Mississippi expands AI in schools, colleges 
+Sentiment: Positive 
+
+Article Title: AI is running rampant on college campuses as professors and students lean on artificial intelligence 
+Sentiment: Positive 
+
+Article Title: Hua Hsu in the New Yorker : “What Happens After AI Destroys College Writing?” 
+Sentiment: Negative 
+
+Article Title: Worried About AI? Study the Humanities 
+Sentiment: Negative 
+
+Article Title: Did Two University of Utah Professors Use AI to Take SLC's Streets Away? 
+Sentiment: Neutral 
+
+Article Title: Transformations in academic work and faculty perceptions of artificial intelligence in higher education 
+Sentiment: Positive 
+
+Article Title: We’re Losing the Plot on AI in Universities 
+Sentiment: Negative 
+
+Article Title: New Mexico university to offer state's first artificial intelligence degree 
+Sentiment: Positive 
+
+Article Title: AI’s great brain robbery — and how universities can fight back 
+Sentiment: Positive 
+
+Article Title: The AI balancing act: universities, innovation and the art of not losing the plot 
+Sentiment: Positive 
+
+Article Title: Student leaders tackle the future of AI 
+Sentiment: Neutral 
+
+Article Title: Family tragedy spurs UWM alum in work to save lives with AI – Lubar College of Business - UW 
+Sentiment: Negative 
+
+Article Title: AI guardrails must be established in higher education class - San Antonio Express 
+Sentiment: Neutral 
+
+Article Title: CMU, Pitt join other universities to study artificial intelligence’s impact on workforce 
+Sentiment: Positive 
+
+Article Title: Cedarville University Approves Data Science and Artificial Intelligence Initiative 
+Sentiment: Positive 
+
+Article Title: University AI expert Witbrock tapped by government for advice 
+Sentiment: Neutral 
+
+Article Title: Universities Supercharge AI Research with NVIDIA H200: Igniting a Global Race for Innovation 
+Sentiment: Positive 
+
+Article Title: What Happens After A.I. Destroys College Writing? 
+Sentiment: Negative 
+
+Article Title: Beyond the Campus: Why Leading Universities Are Moving Their AI Infrastructure Off-Site 
+Sentiment: Neutral 
+
+Article Title: East Asia Unites to Advance AI in Higher Education at 2025 High-Level 
+Sentiment: Neutral 
+
+Article Title: The AI Innovation Race in Universities: Why Falling Behind in Data Centre Infrastructure Means Falling Behind in Research 
+Sentiment: Positive 
+
+Article Title: HPU embraces future: AI, data science to be part of curriculum 
+Sentiment: Neutral 
+
+Article Title: Troy University advances AI outreach with new business-focused research center 
+Sentiment: Positive 
+
+Article Title: Top 10 World's Best Universities for Artificial Intelligence 
+Sentiment: Positive 
+
+Article Title: Delhi schools will soon have advanced education system with artificial intelligence smart boards and robo 
+Sentiment: Positive 
+
+Article Title: ‘The biggest risk is doing nothing’: insights from early adopters of artificial intelligence in schools and further education colleges 
+Sentiment: Positive 
+
+Article Title: AI in education: how schools and further education colleges are making it work 
+Sentiment: Neutral 
+
+Article Title: The Essential Role of "Friction" in Student-Facing Artificial Intelligence Products 
+Sentiment: Positive 
+
+Article Title: Fodder for Thought: The artificial intelligence of the modern university 
+Sentiment: Positive 
+
+Article Title: Cemtrex's AI-Powered Security Camera Captures 3 Major Awards, Including Top Education Security Honor 
+Sentiment: Positive 
+
+Article Title: Computer Science Education in the Age of AI 
+Sentiment: Neutral 
+
+Article Title: Troy University to help Economic Development of Southeast Counties with Artificial Intelligence 
+Sentiment: Positive 
+
+Article Title: Unlocking student success with generative AI: How Panorama Education built Solara on AWS 
+Sentiment: Positive 
+
+Article Title: Troy University educates the Wiregrass on artificial intelligence 
+Sentiment: Positive 
+
+Article Title: When talking about AI, definitions matter | Emory University | Atlanta GA 
+Sentiment: Neutral 
+
+Article Title: NVIDIA Run:ai and Amazon SageMaker HyperPod: Working Together to Manage Complex AI Training 
+Sentiment: Positive 
+
+Article Title: Study shows Canada among least AI literate nations 
+Sentiment: Neutral 
+
+Article Title: iPhone 17 Pro Could Feature Vapor Chamber Cooling for Better AI Performance 
+Sentiment: Positive 
+
+Article Title: There’s no simple solution to universities’ AI worries | Letters 
+Sentiment: Negative 
+
+Article Title: How the U of A became Canada’s top AI university 
+Sentiment: Positive 
+
+Article Title: AI in higher education is driving a shift toward lifelong learning, Northeastern president says 
+Sentiment: Neutral 
+
+Article Title: Opinion: In the AI revolution, universities are up against the wall 
+Sentiment: Neutral 
+
+Article Title: How AI Is Helping Students Find the Right College 
+Sentiment: Positive 
+
+Article Title: UWM offers new engineering master’s degree in artificial intelligence and machine learning - UW 
+Sentiment: Positive 
+
+Article Title: TalTech Invites Estonian Universities to Establish an Artificial Intelligence Consortium 
+Sentiment: Positive 
+
+Article Title: Peter Kirstein Lecture with Professor Tom Mitchell: Where Can AI take Education by 2030? 
+Sentiment: Neutral 
+
+Article Title: University of Oklahoma to Launch 20 New AI Projects 
+Sentiment: Neutral 
+
+Article Title: Towards an Institutional Framework for the Adoption of Artificial Intelligence in Latin American Universities - Inter 
+Sentiment: Positive 
+
