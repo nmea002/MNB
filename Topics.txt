@@ -1,90 +1,108 @@
-Topic Name: 0_ai_education_curriculum_intelligence 
-Document Count For Topic: 315 
+Topic Name: AI integration into Schools 
+Document Count For Topic: 300 
 Representation and Weights: 
-(classrooms, 0.60) 
-(classroom, 0.57) 
-(ai, 0.56) 
-(educators, 0.52) 
-(education, 0.52) 
-(teachers, 0.51) 
-(students, 0.51) 
-(teaching, 0.51) 
-(teacher, 0.48) 
-(intelligence, 0.48) 
+(ai, 0.57) 
+(education, 0.40) 
+(intelligence, 0.40) 
+(academic, 0.39) 
+(advanced, 0.39) 
+(initiative, 0.38) 
+(college, 0.36) 
+(students, 0.35) 
+(colleges, 0.34) 
+(professors, 0.33) 
 Representative Docs: 
-The Complete Guide to Using AI in the Education Industry in Raleigh in 2025 
-The Complete Guide to Using AI in the Education Industry in Canada in 2025 
-A Student’s Guide to College and Career in the Age of AI 
-
-Topic Name: 1_classrooms_classroom_ai_educators 
-Document Count For Topic: 281 
-Representation and Weights: 
-(ai, 0.43) 
-(education, 0.42) 
-(openai, 0.39) 
-(universities, 0.39) 
-(google, 0.37) 
-(microsoft, 0.36) 
-(training, 0.36) 
-(teachers, 0.34) 
-(academy, 0.32) 
-(learning, 0.32) 
-Representative Docs: 
-The future of artificial intelligence in education 
+AI in the classroom: How China is bringing artificial intelligence to schools 
 AI in the classroom: Tools, training, and the future of education 
 Artificial intelligence in the classroom 
 
-Topic Name: 2_ai_education_openai_universities 
-Document Count For Topic: 221 
+Topic Name: 1_ai_education_intelligence_academic 
+Document Count For Topic: 230 
 Representation and Weights: 
-(ai, 0.48) 
-(medical, 0.42) 
-(physicians, 0.39) 
-(intelligence, 0.37) 
-(doctors, 0.37) 
-(medicine, 0.36) 
-(healthcare, 0.35) 
-(artificial, 0.33) 
-(learning, 0.33) 
-(patients, 0.33) 
+(ai, 0.68) 
+(intelligence, 0.49) 
+(learning, 0.42) 
+(knowledge, 0.36) 
+(artificial, 0.34) 
+(skills, 0.33) 
+(education, 0.32) 
+(performance, 0.31) 
+(evaluation, 0.30) 
+(research, 0.30) 
 Representative Docs: 
-Teachers union partners with Anthropic, Microsoft and OpenAI to launch AI-training academy 
-Google commits $1 billion for AI training at US universities 
-Google to spend $1 billion on AI education and job training in the U.S. 
+Bringing the best of AI to college students for free 
+New Mexico State University to offer Bachelor of Science in artificial intelligence 
+A Studentï¿½s Guide to College and Career in the Age of AI 
 
-Topic Name: 3_ai_medical_physicians_intelligence 
-Document Count For Topic: 183 
+Topic Name: 2_ai_intelligence_learning_knowledge 
+Document Count For Topic: 189 
 Representation and Weights: 
-(chatbots, 0.65) 
-(chatbot, 0.59) 
-(ai, 0.47) 
-(chatgpt, 0.43) 
-(chat, 0.42) 
-(conversations, 0.41) 
-(chats, 0.38) 
-(critical, 0.33) 
-(intelligence, 0.32) 
-(suicide, 0.31) 
+(ai, 0.55) 
+(intelligence, 0.44) 
+(stanford, 0.39) 
+(artificial, 0.35) 
+(knowledge, 0.31) 
+(mit, 0.30) 
+(agentic, 0.30) 
+(agents, 0.29) 
+(study, 0.28) 
+(tech, 0.27) 
 Representative Docs: 
 Application and ethical implication of generative artificial intelligence in medical education: a cross-sectional study among critical care academic physicians in China 
 Awareness and Attitudes Toward Artificial Intelligence Language Generation Models in Medical Education: A Cross-Sectional Questionnaire Study Among Medical Students in Southern China 
 Role and use of race in artificial intelligence and machine learning models related to health 
 
-Topic Name: 4_chatbots_chatbot_ai_chatgpt 
-Document Count For Topic: 98 
+Topic Name: 3_ai_intelligence_stanford_artificial 
+Document Count For Topic: 154 
 Representation and Weights: 
-(creativity, 0.64) 
-(ai, 0.57) 
-(generative, 0.52) 
-(creative, 0.50) 
+(ai, 0.59) 
 (intelligence, 0.47) 
-(creation, 0.44) 
-(artists, 0.44) 
-(artificial, 0.41) 
-(art, 0.41) 
-(talent, 0.40) 
+(learning, 0.36) 
+(students, 0.35) 
+(stanford, 0.34) 
+(artificial, 0.33) 
+(knowledge, 0.33) 
+(executives, 0.31) 
+(training, 0.30) 
+(study, 0.30) 
 Representative Docs: 
-Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy’s death 
-Study Says AI Chatbots Need to Fix Suicide Response, as Family Sues Over ChatGPT Role in Boy's Death 
+Study shows what jobs are most at risk as AI enters the workplace 
+Stanford study says AI is wiping out jobs for young workers 
+AI adoption linked to 13% decline in jobs for young U.S. workers, Stanford study reveals 
+
+Topic Name: 4_ai_intelligence_learning_students 
+Document Count For Topic: 82 
+Representation and Weights: 
+(ai, 0.54) 
+(education, 0.42) 
+(intelligence, 0.41) 
+(educators, 0.39) 
+(learning, 0.39) 
+(teacher, 0.38) 
+(tech, 0.37) 
+(teachers, 0.37) 
+(universities, 0.37) 
+(initiative, 0.35) 
+Representative Docs: 
+Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boyï¿½s death 
 Study says AI chatbots need to fix suicide response, as family sues over ChatGPT role in boy's death 
+Study Says AI Chatbots Need to Fix Suicide Response, as Family Sues Over ChatGPT Role in Boy's Death 
+
+Topic Name: 5_ai_education_intelligence_educators 
+Document Count For Topic: 81 
+Representation and Weights: 
+(ai, 0.57) 
+(learning, 0.43) 
+(study, 0.37) 
+(teach, 0.34) 
+(knowledge, 0.30) 
+(brain, 0.30) 
+(oxford, 0.27) 
+(leading, 0.26) 
+(google, 0.26) 
+(search, 0.25) 
+Representative Docs: 
+Google commits US$1 billion for AI training at US universities 
+Teachers union partners with Anthropic, Microsoft and OpenAI to launch AI-training academy 
+Google commits $1 billion for AI training at US universities 
 

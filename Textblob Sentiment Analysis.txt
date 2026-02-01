@@ -6,19 +6,11 @@ Article Title: Maine Monitor: ‘Building the plane as we’re flying it’: How
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: School of Computing introduces AI graduate certificate - University of Nebraska 
-Polarity: 0.0 
-Sentiment: Neutral 
+Article Title: Empowering Minds: The Rise of Artificial Intelligence in Education Curricula 
+Polarity: -0.6 
+Sentiment: Negative 
 
-Article Title: Starting my AI and higher education seminar 
-Polarity: 0.125 
-Sentiment: Neutral 
-
-Article Title: Preparing college students for an AI-powered future 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: University of North Carolina to appoint first Chief Artificial Intelligence Officer as sector formalizes AI leadership 
+Article Title: Artificial Intelligence in Higher Education (AIHE): A systematic review of their impact on student engagement and the mediating role of teaching methods 
 Polarity: -0.175 
 Sentiment: Neutral 
 
@@ -26,19 +18,23 @@ Article Title: Upstart school network focuses on using artificial intelligence
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: ECE alum Navrina Singh named to Time100 AI - College of Engineering | University of Wisconsin 
-Polarity: 0.0 
-Sentiment: Neutral 
-
 Article Title: North Dakota teacher: We can't shy away from tough artificial intelligence questions 
 Polarity: -0.4962962962962963 
 Sentiment: Negative 
 
-Article Title: USC Viterbi School of Engineering & School of Advanced Computing introduce new UG course in AI 
-Polarity: 0.2681818181818182 
-Sentiment: Positive 
+Article Title: Alpha School showcases expedited student learning through artificial intelligence alongside state, federal leaders 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: US Secretary of Education highlights AI in classrooms during visit to Austin private school 
+Polarity: 0.0 
+Sentiment: Neutral 
 
 Article Title: What does AI in the classroom look like? Ask Margaret Sass 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: U.S. Secretary of Education visits Austin school, talks the future of AI in classrooms 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -46,13 +42,29 @@ Article Title: Artificial intellegence on London Morning: The changing landscape
 Polarity: -0.6 
 Sentiment: Negative 
 
+Article Title: Artificial intelligence and education with Mark Daley on London Morning 
+Polarity: -0.6 
+Sentiment: Negative 
+
 Article Title: AI Competence and Sentiment: A Mixed-Methods Study of Attitudes and Open-Ended Reflections 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Are AI learning tools breaking barriers or building dependency? 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: AI in schools: Perspective from a Minnesota teacher turned AI education consultant 
 Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: Garyn Angel: Nurturing the future — a maternal approach to AI in education 
 Polarity: 0.0 
 Sentiment: Neutral 
+
+Article Title: AI in the classroom: How China is bringing artificial intelligence to schools 
+Polarity: -0.6 
+Sentiment: Negative 
 
 Article Title: AI for Teachers: How Artificial Intelligence is Transforming Education 
 Polarity: -0.6 
@@ -62,28 +74,20 @@ Article Title: Let’s Talk About AI in the Classroom
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Ever-expanding AI continues to invade higher education 
-Polarity: 0.25 
-Sentiment: Positive 
-
-Article Title: How Ohio universities are embracing artificial intelligence 
-Polarity: -0.6 
-Sentiment: Negative 
+Article Title: Teachers are not replaceable, UNESCO paper argues in new guidance on AI in education 
+Polarity: 0.13636363636363635 
+Sentiment: Neutral 
 
 Article Title: Sal Khan is hopeful that AI won’t destroy education 
 Polarity: -0.2 
-Sentiment: Neutral 
-
-Article Title: College Leadership for the AI-Native Generation 
-Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: OPINION: If we are going to build AI literacy into every level of learning, we must be able to measure it 
 Polarity: 0.5 
 Sentiment: Positive 
 
-Article Title: The Complete Guide to Using AI in the Education Industry in Egypt in 2025 
-Polarity: 0.1 
+Article Title: ICYMI: Cambridge student creates AI tool to help families save on groceries 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: On GPS: Is AI a threat to education? 
@@ -94,28 +98,20 @@ Article Title: ‘All in School’ brings AI to classrooms
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Here's who is behind terrifying AI-enhanced 'swatting' spree targeting US universities 
-Polarity: -0.7 
-Sentiment: Negative 
-
-Article Title: The hidden danger of university students relying on AI 
-Polarity: -0.16666666666666666 
+Article Title: Does Bentley Systems’ (BSY) AI Education Pledge Signal a Shift in Its Competitive Positioning? 
+Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: The Complete Guide to Using AI in the Education Industry in Canada in 2025 
-Polarity: 0.1 
+Article Title: Carnegie Learning is one of many companies using artificial intelligence to enhance education - Pittsburgh Post 
+Polarity: -0.04999999999999999 
 Sentiment: Neutral 
-
-Article Title: AI in classrooms and among peers leaves some university students feeling anxious and confused 
-Polarity: -0.325 
-Sentiment: Negative 
 
 Article Title: A.I. School Is in Session: Two Takes on the Future of Education 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Columbia tries using AI to cool off student tensions 
-Polarity: 0.12499999999999999 
+Article Title: Calgary post-secondary students discuss A.I. in the classroom 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: Can artificial intelligence be helpful in school? 
@@ -126,12 +122,16 @@ Article Title: Mass. school district embraces AI to help students learn responsi
 Polarity: 0.2 
 Sentiment: Neutral 
 
-Article Title: Three Reasons Why Universities are Crucial for Understanding AI 
+Article Title: AI and the future of education. Disruptions, dilemmas and directions 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Bringing the best of AI to university students, free of charge 
-Polarity: 0.7 
+Article Title: Back to School: Artificial intelligence usage in schools 
+Polarity: -0.3 
+Sentiment: Negative 
+
+Article Title: ‘Greater caution needed with AI in schools to protect learning’, education expert warns 
+Polarity: 0.5 
 Sentiment: Positive 
 
 Article Title: The Balance Between AI and Student Learning: Ms Ellis's Teacher Workshop 
@@ -142,7 +142,7 @@ Article Title: AI in schools: Pros and cons of artificial intlligence in educati
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: Artificial intelligence makes a stubborn student - Messenger 
+Article Title: Is the use of artificial intelligence in the classroom a pro or a con? 
 Polarity: -0.6 
 Sentiment: Negative 
 
@@ -150,7 +150,7 @@ Article Title: Bridging AI literacy and UTAUT constructs: structural equation mo
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: At Harvard Convocation, College Dean David Deming Tells Freshmen to Prepare for AI Age 
+Article Title: An AI-powered framework for assessing teacher performance in classroom interactions: a deep learning approach 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -166,17 +166,13 @@ Article Title: AI has entered the classroom in Bellingham — how are students a
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: As technology evolves, Universities embrace Artificial Intelligence 
-Polarity: -0.6 
-Sentiment: Negative 
-
 Article Title: This Houston-area school district is embracing AI to teach in classrooms 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Contributor: How do we prepare college students for the AI world? 
-Polarity: 0.0 
-Sentiment: Neutral 
+Article Title: Artificial intelligence in Macedonian schools from January, teachers begin training 
+Polarity: -0.6 
+Sentiment: Negative 
 
 Article Title: Should artificial intelligence be embraced in the classroom? 
 Polarity: -0.6 
@@ -190,13 +186,17 @@ Article Title: Generation Ready: Building the Foundations for AI-Proficient Educ
 Polarity: 0.2 
 Sentiment: Neutral 
 
-Article Title: The Complete Guide to Using AI in the Education Industry in Washington in 2025 
-Polarity: 0.1 
+Article Title: Reimagining Education for Gen Z in the Age of AI 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: Brave new classroom: Catholic schools nationwide integrate AI into teaching plans 
 Polarity: 0.31212121212121213 
 Sentiment: Positive 
+
+Article Title: Local child psychiatrist warns parents to balance AI use in children's education 
+Polarity: 0.0 
+Sentiment: Neutral 
 
 Article Title: Education Ministry sparks uproar with AI-generated image of first graders 
 Polarity: 0.25 
@@ -206,9 +206,17 @@ Article Title: Education Ministry slammed for AI image of kids starting 1st grad
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: The Complete Guide to Using AI in the Education Industry in Tucson in 2025 
-Polarity: 0.1 
+Article Title: California Official Tony Thurmond to Convene ‘Artificial Intelligence in Education’ Workgroup 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: Danbury equips school buses with AI cameras to deter stop-arm violations: 'Tool to prevent tragedy' - News 
+Polarity: 0.0 
 Sentiment: Neutral 
+
+Article Title: Confusing school policies on AI, ChatGPT use leave families guessing 
+Polarity: -0.3 
+Sentiment: Negative 
 
 Article Title: How can AI be used in the classroom? Massachusetts schools are working to identify the benefits 
 Polarity: 0.0 
@@ -218,7 +226,11 @@ Article Title: Teaching AI Literacy with or without AI Tools - Teachers College
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Assessment of university students’ earthquake coping strategies using artificial intelligence methods 
+Article Title: Back to school, AI edition: College students get big discounts on AI tools like Gemini and Grammarly 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: France is betting on artificial intelligence to modernize the education system 
 Polarity: -0.6 
 Sentiment: Negative 
 
@@ -226,37 +238,29 @@ Article Title: State superintendent to convene 'Artificial Intelligence in Educa
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: AI at the University: Preparing for the future 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: Guiding first-year students through the age of AI | Emory University | Atlanta GA 
-Polarity: 0.0 
-Sentiment: Neutral 
+Article Title: 🎓 Artificial Intelligence in Education: Revolutionizing How We Learn in 2025 
+Polarity: -0.6 
+Sentiment: Negative 
 
 Article Title: Why Does This AI Love Owls? Blame Its Teacher 
 Polarity: 0.5 
 Sentiment: Positive 
 
-Article Title: N.J. university debuts state’s first-ever bachelor’s degree in AI 
-Polarity: 0.0 
-Sentiment: Neutral 
-
 Article Title: Educator Buy-In: What One Teacher Wants From AI Tools 
 Polarity: 0.2 
 Sentiment: Neutral 
 
-Article Title: Kean University to Offer New Jersey's First Bachelor's Degree in AI 
-Polarity: 0.19318181818181818 
-Sentiment: Neutral 
-
-Article Title: Reimagining global student enrolment for the AI era 
-Polarity: 0.0 
-Sentiment: Neutral 
+Article Title: Confusing school AI policies leave families guessing 
+Polarity: -0.3 
+Sentiment: Negative 
 
 Article Title: Artificial intelligence in the classroom 
 Polarity: -0.6 
 Sentiment: Negative 
+
+Article Title: How Ohio is navigating AI in the classroom 
+Polarity: 0.0 
+Sentiment: Neutral 
 
 Article Title: AI use questioned in, outside of classroom - Observer 
 Polarity: 0.0 
@@ -270,35 +274,51 @@ Article Title: Education professor studies how to use artificial intelligence ef
 Polarity: 0.0 
 Sentiment: Neutral 
 
+Article Title: School says it was ‘never informed’ of US AI firm's role in creation of student app amid academic integrity controversy 
+Polarity: -0.1 
+Sentiment: Neutral 
+
+Article Title: Preston school board discusses artificial intelligence in education 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: AMAN - ATA - Basics of artificial intelligence in school curriculum 
+Polarity: -0.6 
+Sentiment: Negative 
+
 Article Title: Universities could bolster democracy by fostering students’ AI literacy 
 Polarity: 0.0 
 Sentiment: Neutral 
+
+Article Title: Opinion: AI is winning hearts and minds in the classroom – but at what cost to our cognitive future? 
+Polarity: 0.25 
+Sentiment: Positive 
 
 Article Title: People-centered AI in education: Five lessons from the Global South 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Frequent use of AI may hinder students' academic performance 
-Polarity: 0.05 
+Article Title: How students can get the most out of artificial intelligence to enhance their learning experience 
+Polarity: -0.04999999999999999 
 Sentiment: Neutral 
 
 Article Title: Modesto school district launches committee to focus on how AI should be used in classrooms 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Frequent use of artificial intelligence may hinder students’ academic performance 
-Polarity: -0.16666666666666666 
-Sentiment: Neutral 
-
-Article Title: New research reveals how university students are really using AI 
-Polarity: 0.16818181818181818 
-Sentiment: Neutral 
-
-Article Title: Lake Oswego School District sets guidelines, but doesn’t discourage use of artificial intelligence in classrooms 
+Article Title: MES: Teachers' application for training on the implementation of artificial intelligence in teaching begins 
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: University lecturer warns of dangers in befriending artificial intelligence 
+Article Title: Greenville County Schools explores AI technology in the classroom 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: School Committee Plans Workshop on Strategic Planning and Artificial Intelligence Integration 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: Lake Oswego School District sets guidelines, but doesn’t discourage use of artificial intelligence in classrooms 
 Polarity: -0.6 
 Sentiment: Negative 
 
@@ -310,57 +330,53 @@ Article Title: How teachers say they're embracing AI in the classroom
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: West Virginia College Partners With Industry to Create AI Program 
-Polarity: 0.0 
+Article Title: New AI and gaming education initiative to expand access to technologies worldwide 
+Polarity: 0.13636363636363635 
+Sentiment: Neutral 
+
+Article Title: Artificial Intelligence in Schools 2024: Personalization and Inclusivity in Education. 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: KU professor publishes new framework for use of AI tools in classroom 
+Polarity: 0.13636363636363635 
 Sentiment: Neutral 
 
 Article Title: AI offers tools for students heading back to school 
 Polarity: 0.05 
 Sentiment: Neutral 
 
-Article Title: Penn State University introduces Bachelor of Science degree in artificial intelligence engineering 
-Polarity: -0.6 
-Sentiment: Negative 
-
-Article Title: 'Easiest thing to do': Lincoln University to re-test entire class in AI crackdown 
+Article Title: Thomas Thompson, ’19, is helping shape the future of education with AI 
 Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: My top 5 free AI tools for school - and how they can help supercharge your learning 
+Polarity: 0.45 
+Sentiment: Positive 
+
+Article Title: A Q&A with Dewey Murdick, Leader of Georgetown’s New AI Learning Incubator 
+Polarity: 0.13636363636363635 
+Sentiment: Neutral 
+
+Article Title: Analyzing the pros and cons of AI in NYC schools. Here's what experts say for the new school year. 
+Polarity: 0.13636363636363635 
 Sentiment: Neutral 
 
 Article Title: AI In Education Best Practices — What’s Working In Classrooms Around The Globe 
 Polarity: 1.0 
 Sentiment: Positive 
 
-Article Title: Lincoln University students told to re-sit exam after concerns AI was used 
-Polarity: 0.0 
-Sentiment: Neutral 
-
 Article Title: Jason Brown Bets on Education as the Real AI Revolution 
 Polarity: 0.2 
-Sentiment: Neutral 
-
-Article Title: UA Little Rock Expands Extended Education with Three New AI Courses to Equip Arkansas Workforce for Tomorrow 
-Polarity: -0.025568181818181823 
-Sentiment: Neutral 
-
-Article Title: AI academic research: University of Utah cracks global rankings 
-Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: ‘The new encyclopedia’: how some kids will use AI at school this year 
 Polarity: 0.13636363636363635 
 Sentiment: Neutral 
 
-Article Title: Monash University, Indonesia EduVate 2025: Driving Innovation at the Crossroads of AI, Inclusion, and Higher Education Partnerships 
-Polarity: 0.25 
-Sentiment: Positive 
-
-Article Title: RTI International and Elon University to host conference on the future of artificial intelligence 
-Polarity: -0.19999999999999998 
+Article Title: 3 questions for K-12 leaders to consider amid the AI tutoring boom - K 
+Polarity: 0.0 
 Sentiment: Neutral 
-
-Article Title: Opinion: From personalised tutoring to improved accessibility, why AI can democratise higher education 
-Polarity: 0.25 
-Sentiment: Positive 
 
 Article Title: Elementary students create ‘digital lockers’ while learning AI, design 
 Polarity: 0.15 
@@ -370,12 +386,20 @@ Article Title: Rockford Schools Weigh Role of Artificial Intelligence in the Cla
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: How AI Is Helping Education Companies in Raleigh Cut Costs and Improve Efficiency 
+Article Title: How to use AI to save time and money when back-to-school shopping 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: The Complete Guide to Using AI in the Education Industry in Raleigh in 2025 
-Polarity: 0.1 
+Article Title: Denmark allows use of artificial intelligence in matriculation exams 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: How to use artificial intelligence to find deals on back-to-school supplies 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: Education in Estonia: From ‘Tiger Leap’ to an AI Future 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: AI's Dual Role in Education and Cognitive Development: The Next Frontier in Shaping Tomorrow's Thinkers 
@@ -386,12 +410,16 @@ Article Title: How students and staff are embracing AI in teaching and learning
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: AI for Teaching and Learning - The Citadel 
-Polarity: 0.0 
+Article Title: High school students in Denmark can use artificial intelligence 
+Polarity: -0.21999999999999997 
+Sentiment: Negative 
+
+Article Title: Bengaluru: Use Artificial Intelligence as your assistant, not boss; corporate social responsibility executives urge govt school teachers to embrace AI 
+Polarity: -0.18888888888888888 
 Sentiment: Neutral 
 
-Article Title: The Complete Guide to Using AI in the Education Industry in Rochester in 2025 
-Polarity: 0.1 
+Article Title: AI for Teaching and Learning - The Citadel 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: Creepy AI Will Look Up a Teacher's Info to Predict What Grade They'll Give a Paper 
@@ -402,21 +430,9 @@ Article Title: How some schools are integrating AI in classrooms and reshaping l
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: The Complete Guide to Using AI in the Education Industry in Nashville in 2025 
-Polarity: 0.1 
+Article Title: The Future of Education: AI, Accessibility, and Canvas 
+Polarity: 0.0 
 Sentiment: Neutral 
-
-Article Title: Students are relying more and more on AI, undermining the joy of learning | Opinion 
-Polarity: 0.6 
-Sentiment: Positive 
-
-Article Title: The Complete Guide to Using AI in the Education Industry in Omaha in 2025 
-Polarity: 0.1 
-Sentiment: Neutral 
-
-Article Title: New Mexico State University to offer Bachelor of Science in artificial intelligence 
-Polarity: -0.2318181818181818 
-Sentiment: Negative 
 
 Article Title: DCCC English Professor Uses AI to Increase Students’ Engagement and Prepare Them for the Future 
 Polarity: 0.0 
@@ -426,35 +442,47 @@ Article Title: AI or Teacher Feedback: What Do Students Think?
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: University of Nevada Initiative Brings AI to Freshmen, Faculty 
-Polarity: 0.0 
-Sentiment: Neutral 
+Article Title: AI in Classrooms: How Artificial Intelligence Is Reshaping Student Learning and Teaching 
+Polarity: -0.6 
+Sentiment: Negative 
 
-Article Title: In State of the University address, Armacost says UND will become North Dakota's AI university 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: NSF announces new funding opportunities to advance AI education and build the STEM workforce of the future 
-Polarity: 0.06818181818181818 
-Sentiment: Neutral 
+Article Title: More Schools Are Considering Education-Focused AI Tools. What’s the Best Way to Use Them? 
+Polarity: 0.75 
+Sentiment: Positive 
 
 Article Title: How school districts in Charlotte region are implementing AI this school year 
 Polarity: 0.0 
 Sentiment: Neutral 
 
+Article Title: Evaluating the Effectiveness of Digital Scenario-Based English Teaching at the University Level using the Artificial Intelligence Generated Content (AIGC) 
+Polarity: -0.19999999999999998 
+Sentiment: Neutral 
+
+Article Title: Artificial intelligence will soon be allowed in high school exams in Denmark 
+Polarity: -0.21999999999999997 
+Sentiment: Negative 
+
 Article Title: Who wants AI in the classroom? 
 Polarity: 0.2 
 Sentiment: Neutral 
 
-Article Title: As the New School Year Begins, This Is How I Use AI as a College Professor 
-Polarity: 0.13636363636363635 
+Article Title: Taradale High School Students Partner With Tech Company To Develop AI-Powered App Fighting Food Waste - Scoop 
+Polarity: -0.020000000000000004 
+Sentiment: Neutral 
+
+Article Title: Joint Comment on the Secretary’s Supplemental Priority on Artificial Intelligence in Education 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: How Mid-Michigan students are learning in the age of A.I. 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: Northern school board exploring use of artificial intelligence 
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: Development and Introduction of a Document Disclosing AI-Use: Exploring Self-Reported Student Rationales for Artificial Intelligence Use in Coursework: A Brief Research Report 
+Article Title: Idaho big education hands over K-3 reading to artificial intelligence 
 Polarity: -0.3 
 Sentiment: Negative 
 
@@ -470,21 +498,25 @@ Article Title: AI in Education Report: Insights to support teaching and learning
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Rogers State University Adds Degrees in AI, Cybersecurity 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: 'I think AI is the future': Adrian College offering artificial intelligence major for students 
-Polarity: -0.17916666666666667 
-Sentiment: Neutral 
-
-Article Title: The Radical Changes AI Is Bringing To Higher Education 
-Polarity: 0.25 
+Article Title: MPS Students excited about AI as Milwaukee County school districts continue to integrate AI into curriculum 
+Polarity: 0.375 
 Sentiment: Positive 
+
+Article Title: Bill Ackman’s New Pet Project Is a School That Embraces AI and Rejects DEI 
+Polarity: 0.13636363636363635 
+Sentiment: Neutral 
 
 Article Title: Don’t Hand Education Over to AI 
 Polarity: 0.0 
 Sentiment: Neutral 
+
+Article Title: Response to the Department of Education’s Request for Information on AI in Education 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Artificial intelligence goes to school 
+Polarity: -0.6 
+Sentiment: Negative 
 
 Article Title: How AI is changing the work of teachers in the classroom 
 Polarity: 0.0 
@@ -498,45 +530,37 @@ Article Title: Topeka Public Schools implements artificial intelligence in the c
 Polarity: -0.3 
 Sentiment: Negative 
 
+Article Title: The future of artificial intelligence in education 
+Polarity: -0.3 
+Sentiment: Negative 
+
 Article Title: How Topeka Public Schools is implementing artificial intelligence in the classroom 
 Polarity: -0.3 
 Sentiment: Negative 
 
-Article Title: WV community colleges expand artificial intelligence training for jobs of the future 
-Polarity: -0.3 
+Article Title: Artificial Intelligence Revolution in Education: What You Need to Know | World Bank Expert Answers 
+Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: Liverpool school grades rise thanks to AI tool, says mayor 
-Polarity: 0.2 
-Sentiment: Neutral 
+Article Title: The Transformative Impact of Artificial Intelligence on Education 
+Polarity: -0.6 
+Sentiment: Negative 
 
-Article Title: Universities adopting AI tools, but concerns about technology remain 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: Canadian universities are adopting AI tools, but concerns about the technology remain 
-Polarity: 0.0 
-Sentiment: Neutral 
+Article Title: HKUST Debuts World's Largest AI Education Sandbox Game 
+Polarity: -0.4 
+Sentiment: Negative 
 
 Article Title: How AI is impacting teachers and students in the classroom 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Opinion: Universities must be reimagined for the AI age 
+Article Title: Does AI understand Gen Alpha? Teen’s study says slang may put kids at risk | story | Kids News 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Metro State University expanding computer science program amid boom in artificial intelligence 
-Polarity: -0.6 
-Sentiment: Negative 
-
-Article Title: Walsh College in Troy Adds Bachelor’s Degree in AI and Machine Learning 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: BCR Cyber Launches New Artificial Intelligence Course to its Cybersecurity Training Programs 
-Polarity: -0.2318181818181818 
-Sentiment: Negative 
+Article Title: I got an AI to impersonate me and teach me my own course – here’s what I learned about the future of education 
+Polarity: 0.3 
+Sentiment: Positive 
 
 Article Title: AI in the classroom: What parents need to know 
 Polarity: 0.0 
@@ -550,7 +574,11 @@ Article Title: How is AI shaping the future of education? A Baltimore tech found
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Managing student risk AI-version 
+Article Title: UCF student shares how she uses AI in education 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Kansas Schools Integrate AI to Raise Bar for Learning 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -558,32 +586,12 @@ Article Title: AI in Education: Benefits, Use Cases, Challenges, Cost & More
 Polarity: 0.5 
 Sentiment: Positive 
 
-Article Title: Iraq’s higher education enters the AI era: Promise and obstacles - Shafaq News 
-Polarity: 0.1 
-Sentiment: Neutral 
-
-Article Title: Temple College opens manufacturing lab powered by Artificial Intelligence - clipped version 
-Polarity: -0.6 
-Sentiment: Negative 
-
-Article Title: Temple College opens manufacturing lab powered by Artificial Intelligence 
-Polarity: -0.6 
-Sentiment: Negative 
-
-Article Title: USC Viterbi School of Engineering and the USC School of Advanced Computing Launch an Undergraduate Degree in Artificial Intelligence 
-Polarity: -0.09999999999999998 
-Sentiment: Neutral 
-
-Article Title: University of Nevada, Reno launches 'Pack AI' to integrate artificial intelligence 
-Polarity: -0.6 
-Sentiment: Negative 
-
-Article Title: Computer Science Ph.D. Student Earns Awards for Artificial Intelligence 
-Polarity: -0.6 
-Sentiment: Negative 
-
 Article Title: San Diego Unified School District developing new guidelines for artificial intelligence in the classroom 
 Polarity: -0.2318181818181818 
+Sentiment: Negative 
+
+Article Title: Eye on Education: Prospects, perils of artificial intelligence in schools 
+Polarity: -0.6 
 Sentiment: Negative 
 
 Article Title: AI in learning still ‘potential not reality’, according to analysts 
@@ -598,16 +606,8 @@ Article Title: Could AI help Tassie's education outcomes?
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Carleton University Launches New AI Resource Hub 
-Polarity: 0.13636363636363635 
-Sentiment: Neutral 
-
-Article Title: Would you use AI study buddy to improve grades? 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: AI still isn’t making a serious impact on university education – here’s why 
-Polarity: -0.3333333333333333 
+Article Title: Artificial intelligence is revolutionising classroom learning but will it help or hinder students? 
+Polarity: -0.6 
 Sentiment: Negative 
 
 Article Title: Validating and refining a multi-dimensional scale for measuring AI literacy in education using the Rasch Model 
@@ -622,20 +622,20 @@ Article Title: VIDEO: The AI revolution taking place in the classroom
 Polarity: 0.0 
 Sentiment: Neutral 
 
+Article Title: EPPC Scholars Submit Comment Calling for Caution on Integrating Artificial Intelligence in Education 
+Polarity: -0.6 
+Sentiment: Negative 
+
 Article Title: AI in the Classroom: Panic, Possibility, and the Pedagogy in Between 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Inside the AI push at US universities: How Barnard, Columbia, NYU and MIT are preparing students for the 
+Article Title: Could AI prevent teacher burnout? 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: University of Nevada, Reno launches artificial intelligence initiative, PACK AI 
-Polarity: -0.6 
-Sentiment: Negative 
-
-Article Title: USF building new college for AI, cybersecurity with help from major benefactor 
-Polarity: 0.09943181818181818 
+Article Title: ‘Not to replace teacher’: Horry County Schools implements AI in classrooms 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: ‘It’s a very simple premise’: Teachers lean on AI to support students learning English 
@@ -650,9 +650,9 @@ Article Title: How to Justify an AI Ban in Your Classroom (Guest Post)
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: From Community College to Advancing AI, UCLA Engineering Transfer Student Carves His Own Path 
-Polarity: 0.6 
-Sentiment: Positive 
+Article Title: With AI in classrooms, Miami-Dade Public School officials want a guideline for teachers 
+Polarity: 0.0 
+Sentiment: Neutral 
 
 Article Title: Park City charter school to incorporate artificial intelligence in curriculum 
 Polarity: -0.6 
@@ -662,91 +662,91 @@ Article Title: Amherst County schools to introduce AI regulations for new school
 Polarity: 0.13636363636363635 
 Sentiment: Neutral 
 
-Article Title: Opinion | What A.I. Really Means for Learning 
-Polarity: 0.2 
+Article Title: New Generation Narrative Techniques in Education: Gen-AI-powered Digital Data Storytelling 
+Polarity: 0.06818181818181818 
 Sentiment: Neutral 
 
-Article Title: OU announces first university-wide chief artificial intelligence officer as part of next phase of strategic plan 
-Polarity: -0.11666666666666665 
+Article Title: Opinion | What A.I. Really Means for Learning 
+Polarity: 0.2 
 Sentiment: Neutral 
 
 Article Title: The AI Takeover of Education Is Just Getting Started 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Student Wellbeing in the AI Era: Stress, Confidence, and Connection – A Global Snapshot 
+Article Title: What California Teachers Are Trying, Building, and Learning with AI 
 Polarity: 0.0 
 Sentiment: Neutral 
-
-Article Title: Artificial Intelligence-Assisted Psychological Intervention Mechanisms for University Students in the Context of New Media Technologies: An Analysis Based on Data from the National Institute of Mental Health 
-Polarity: -0.1409090909090909 
-Sentiment: Neutral 
-
-Article Title: Marion Technical College Awarded National Science Foundation Grant for Artificial Intelligence 
-Polarity: -0.3 
-Sentiment: Negative 
 
 Article Title: Study: Teachers Prefer AI That Solves Specific Problems 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Carnegie Mellon University launches new venture to further math research with AI 
-Polarity: 0.06818181818181818 
+Article Title: AI teacher assistants carry moderate risk in classrooms, says Common Sense assessment 
+Polarity: -0.15 
 Sentiment: Neutral 
-
-Article Title: 70 AI in Education Statistics & Trends (2025) 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: A Student’s Guide to College and Career in the Age of AI 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: IOs offer a solution to AI over-reliance in higher education 
-Polarity: 0.25 
-Sentiment: Positive 
 
 Article Title: Northern Ireland invests in AI to transform teacher training and classroom preparation 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Northeastern State University launches Artificial Intelligence and Data Analytics degree 
+Article Title: Valley school district ramping up tech teams to immerse teachers in artificial intelligence training 
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: These College Professors Will Not Bow Down to A.I. 
-Polarity: -0.15555555555555556 
+Article Title: Kerala’s artificial intelligence training program for teachers in Lakshadweep 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: Central Illinois schools embrace AI to enhance education 
+Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: First Christian University Campus-Wide AI Initiative 
-Polarity: 0.125 
+Article Title: To engage with AI or not: learning engagement among rural junior high school students in an AI-powered adaptive learning environment | Humanities and Social Sciences Communications 
+Polarity: 0.06444444444444444 
 Sentiment: Neutral 
 
-Article Title: Evaluating AI competence for BDS and DHT exams: are they ready? 
-Polarity: 0.2 
+Article Title: (PDF) Artificial intelligence literacy education in primary schools: a review 
+Polarity: -0.09999999999999998 
 Sentiment: Neutral 
 
-Article Title: How AI Supports Student Mental Health in Higher Education 
-Polarity: 0.075 
+Article Title: (PDF) A Holistic Approach to Artificial Intelligence (AI) Curriculum for K-12 Schools 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: (PDF) Personalized Learning Paths Adapting Education with AI-Driven Curriculum 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: (PDF) AI as a Teaching Assistant: An Innovative Approach to Education Through Customized Model Answer Generation and Guided Practice 
+Polarity: 0.5 
+Sentiment: Positive 
+
+Article Title: AI Training Options Open the Door to Purposeful Tech Integration in K–12 Schools 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Investing in AI Education for America’s Youth 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: AI in the classroom: Martin County schools embrace technology, but parents remain divided 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: Register for AI Essentials for Teaching and Learning 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Can Education Survive AI? 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: Universities’ focus on policing is fighting the wrong AI battle 
-Polarity: -0.5 
+Article Title: (PDF) Designing Game-Based Learning for High School Artificial Intelligence Education 
+Polarity: -0.21999999999999997 
 Sentiment: Negative 
 
-Article Title: The challenges of AI in higher education and the imperative for competency frameworks 
-Polarity: 0.25 
+Article Title: Framework for Coherent AI Use in K-12 Education 
+Polarity: 0.5 
 Sentiment: Positive 
 
-Article Title: University of Waterloo launches chair in physics of information and AI | Institute for Quantum Computing 
+Article Title: Can Education Survive AI? 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -754,29 +754,69 @@ Article Title: AI Has Done Far More Harm Than Good in My Classroom (Opinion)
 Polarity: 0.4333333333333333 
 Sentiment: Positive 
 
-Article Title: University of Waterloo launches chair in physics of information and AI 
-Polarity: 0.0 
-Sentiment: Neutral 
+Article Title: (PDF) Benefits of Artificial Intelligence in Education 
+Polarity: -0.6 
+Sentiment: Negative 
 
-Article Title: So long, study guides? The AI industry is going after students 
-Polarity: -0.05 
-Sentiment: Neutral 
+Article Title: Artificial intelligence is reshaping childhood and children's learning. 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: (PDF) A systematic review of literature reviews on artificial intelligence in education (AIED): a roadmap to a future research agenda 
+Polarity: -0.3 
+Sentiment: Negative 
 
 Article Title: Does the Fact That AI Is Brilliant at Writing “Learning Objectives” Prove They're Not Really Needed? 
 Polarity: 0.4 
 Sentiment: Positive 
 
-Article Title: Opinion | These College Professors Will Not Bow Down to A.I. 
-Polarity: -0.15555555555555556 
+Article Title: KU researchers publish guidelines to help responsibly implement AI in education from preschool through college 
+Polarity: 0.2 
 Sentiment: Neutral 
 
 Article Title: How Sci-Fi Taught Me to Embrace AI in My Classroom 
 Polarity: 0.0 
 Sentiment: Neutral 
 
+Article Title: Watch: AI will aid with NCEA replacement, Education Minister says 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Back To School Shopping Trends: Inflation Relief, AI Tools, and More 
+Polarity: 0.25 
+Sentiment: Positive 
+
+Article Title: Marvin Minsky | AI Pioneer, Cognitive Scientist & MIT Professor 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Version control: how I combat the rise of generative AI in the classroom 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Teachers, district leaders working to figure out how to incorporate artificial intelligence in the classroom 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: Classroom intelligence: language learning and AI 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Families call for AI, robotics education in New Zealand schools 
+Polarity: 0.13636363636363635 
+Sentiment: Neutral 
+
 Article Title: New Mexico Public Education Department releases AI guidelines 
 Polarity: 0.06818181818181818 
 Sentiment: Neutral 
+
+Article Title: An AI-Powered Framework for Assessing Teacher Performance in Classroom Interactions: A Deep Learning Approach 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: (PDF) Learning to work with the black box: Pedagogy for a world with artificial intelligence 
+Polarity: -0.3833333333333333 
+Sentiment: Negative 
 
 Article Title: Duluth Public Schools navigate Artificial Intelligence in preparation for upcoming school year 
 Polarity: -0.3 
@@ -790,23 +830,27 @@ Article Title: Where do New Mexico school districts stand on AI in classrooms?
 Polarity: 0.13636363636363635 
 Sentiment: Neutral 
 
-Article Title: Cross-border Higher Education Cooperation under the Dual Context of Artificial Intelligence and Geopolitics: Opportunities, Challenges, and Pathways 
-Polarity: -0.175 
+Article Title: WATCH: AI marking will assist NCEA replacement, education minister says 
+Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: UK universities urged to act fast on AI teaching 
-Polarity: 0.2 
-Sentiment: Neutral 
-
-Article Title: The greatest threat to our universities isn’t funding or AI, it’s China 
-Polarity: 1.0 
-Sentiment: Positive 
+Article Title: Artificial Intelligence Swallows Billions… Spending Surpasses U.S. Education and Labor Budgets 
+Polarity: -0.6 
+Sentiment: Negative 
 
 Article Title: Call the Midwife: Why AI Can’t Save Education 
 Polarity: 0.0 
 Sentiment: Neutral 
 
+Article Title: How AI Will Reshape K-12 and Higher Education for Future Readiness 
+Polarity: 0.125 
+Sentiment: Neutral 
+
 Article Title: The Collaborative AI Classroom: Teaching Students to Work With, Not Against, AI Tools 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Kansas educators explore the future of learning through AI 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -818,47 +862,51 @@ Article Title: In federal lawsuit, students allege Lawrence school district’s 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Washington and Lee University to Host Inaugural Summit on the Future of AI 
+Article Title: Q&A: University of Houston expert dives into artificial intelligence in the classroom 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: Teachers' Preparedness for the Utilization of Artificial Intelligence in Classroom Assessment: The Contributory Effects of Attitude Toward Technology, Technological Readiness, and Pedagogical Beliefs with Perceived Ease of Use and Perceived Usefulness as 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: Dr. Aileen Hawkins talks about the benefits of artificial intelligence in the classroom 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: The Environmental Impact of AI in Education: Cutting Through the Noise 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: Cities and facility operators turn to AI for recycling education revamp 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: AI in higher education: How UNCW is tackling the age of artificial intelligence 
-Polarity: -0.175 
-Sentiment: Neutral 
+Article Title: Is Artificial Intelligence Destroying Education? 
+Polarity: -0.4 
+Sentiment: Negative 
 
-Article Title: How AI is cheapening tertiary education at Sydney University 
-Polarity: 0.0 
-Sentiment: Neutral 
+Article Title: Dear Colleague Letter Issued by U.S. Department of Education Regarding Federal Grant Funds to Improve Education Outcomes Using Artificial Intelligence 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: From experience to engagement: a mixed methods exploration of learning environments using artificial intelligence and extended reality 
+Polarity: -0.3 
+Sentiment: Negative 
 
 Article Title: How teachers’ digital literacy influences the intention to use AI teaching tools: an empirical study based on an integrated model - Taylor & Francis Online: Peer 
 Polarity: 0.05 
 Sentiment: Neutral 
 
-Article Title: Many students in China are choosing to learn AI mostly out of ‘guilt or shame,’ not because they enjoy it, study finds 
-Polarity: 0.4666666666666666 
-Sentiment: Positive 
-
-Article Title: Study shows AI's negative effects as Ohio State University requires students to use AI in classrooms 
-Polarity: -0.3 
-Sentiment: Negative 
-
-Article Title: Why universities in developing countries should prioritise data to maximise AI opportunities 
-Polarity: 0.0 
+Article Title: Trump’s AI Action Plan, AI Could Upend the World Economy, GPT-5 Rumors, AI Tech Layoffs, Advice for College Students & First AI for Therapy 
+Polarity: 0.175 
 Sentiment: Neutral 
 
 Article Title: How Wisconsin teachers are navigating artificial intelligence use, in and out of the classroom 
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: Discover the potential of agentic AI in higher education 
-Polarity: 0.125 
-Sentiment: Neutral 
-
 Article Title: Why AI alone isn’t enough to unlock education’s potential - Installation 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: Universities meeting fraction of demand for AI skills training 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -866,28 +914,24 @@ Article Title: 4 Principles for Classroom AI, From an Experienced Educator (Opin
 Polarity: 0.8 
 Sentiment: Positive 
 
-Article Title: Universities need to reckon with how AI is being used in professional practice 
-Polarity: 0.1 
+Article Title: The Pros and Cons of AI in the Workplace and Education 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: AI vs. teacher feedback on EFL argumentative writing: a quantitative study 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Marcelo Claure leads UK for-profit university deal in AI education push 
-Polarity: 0.0 
+Article Title: UCT to begin implementing its new Artificial Intelligence in education framework 
+Polarity: -0.2318181818181818 
+Sentiment: Negative 
+
+Article Title: A.I.-Driven Education: Founded in Texas and Coming to a School Near You 
+Polarity: 0.1 
 Sentiment: Neutral 
 
 Article Title: AI Student Uses Radar and Language Models to Simulate Human Motion 
 Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: Weekend Reading: From AI prohibition to integration – or why universities must pick up the pace 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: New study says Utah is third-most prepared state for AI revolution 
-Polarity: 0.13636363636363635 
 Sentiment: Neutral 
 
 Article Title: You can still outpace AI: Wharton professor reveals a ‘skill bundling’ strategy to safeguard your future f 
@@ -902,12 +946,20 @@ Article Title: A classroom guide to teaching with AI - AFT
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: USF Bellini College of Artificial Intelligence, Cybersecurity and Computing hosts inaugural summer research program ahead of fall launch 
-Polarity: -0.6 
-Sentiment: Negative 
-
 Article Title: Using AI, researchers customize digital literacy training for small business owners 
 Polarity: -0.125 
+Sentiment: Neutral 
+
+Article Title: VIDEO: Students explore latest in AI-robotics at University of Toronto Mississauga 
+Polarity: 0.5 
+Sentiment: Positive 
+
+Article Title: Pitt County Schools addresses AI use in the classroom ahead of school year 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Education Department issues AI priorities. But what if the agency closes? - K 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: Hancock Place School District hosts St. Louis-area educators for AI summit 
@@ -938,14 +990,6 @@ Article Title: Instructure Launches IgniteAI to Simplify and Seamlessly Transfor
 Polarity: 0.1 
 Sentiment: Neutral 
 
-Article Title: Are College Professors Still Relevant In The Age Of AI? 
-Polarity: 0.4 
-Sentiment: Positive 
-
-Article Title: Report: Faculty Often Missing From University Decisions on AI 
-Polarity: -0.2 
-Sentiment: Neutral 
-
 Article Title: International Resistance To AI In Education Marked In Open Letter 
 Polarity: 0.03333333333333333 
 Sentiment: Neutral 
@@ -954,35 +998,23 @@ Article Title: AI in L&D: Its Uses, What to Avoid & Impacts on Learning & Develo
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Faculty Demand Voice in AI Decisions as Universities Rush to Embrace Technology 
-Polarity: 0.0 
-Sentiment: Neutral 
+Article Title: School curriculum rewrite had serious problems, managers considered using AI to help 
+Polarity: -0.3333333333333333 
+Sentiment: Negative 
 
 Article Title: Letter: Classroom AI encourages originality not learning by rote 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: AAUP Report Urges Faculty Oversight in AI Adoption Across Higher Education 
-Polarity: 0.25 
+Article Title: Grand Erie District School Board, Conestoga College partner on first AI micro-credential 
+Polarity: 0.375 
 Sentiment: Positive 
 
 Article Title: AI education must go beyond technical skills, experts say 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Data Governance: The Backbone of Artificial Intelligence (AI) Adoption in Higher Education 
-Polarity: -0.175 
-Sentiment: Neutral 
-
-Article Title: AI in universities: How large language models are transforming research 
-Polarity: 0.21428571428571427 
-Sentiment: Positive 
-
-Article Title: NIFA Meets Workforce Needs through AI Education 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: Only the Humanities Can Save the University from AI 
+Article Title: Internal documents reveal curriculum rewrite struggles, AI considered 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -1002,13 +1034,13 @@ Article Title: Exclusive: Artificial intelligence trialled in Hunter school zone
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: New cybersecurity, artificial intelligence degrees at Upper Iowa University can help protect, grow businesses 
-Polarity: -0.15454545454545454 
-Sentiment: Neutral 
-
 Article Title: Nelson: Dartmouth must do more to integrate AI into the classroom 
 Polarity: 0.5 
 Sentiment: Positive 
+
+Article Title: AI in the classroom: Tools, training, and the future of education 
+Polarity: 0.0 
+Sentiment: Neutral 
 
 Article Title: Missouri’s education department provides guidelines for responsible AI implementation in schools 
 Polarity: 0.2 
@@ -1030,23 +1062,19 @@ Article Title: “They know AI, but they also know us”: student perceptions of
 Polarity: 0.0 
 Sentiment: Neutral 
 
+Article Title: Parents are Right to Want AI in K-12 Education 
+Polarity: 0.2857142857142857 
+Sentiment: Positive 
+
 Article Title: Opinion: Conflating AI With Human Cognition Is Bad for Education 
 Polarity: -0.3499999999999999 
 Sentiment: Negative 
-
-Article Title: Traugott Professor of Mechanical and Aerospace Engineering Bing Dong to Present at Prestigious AI Conference 
-Polarity: 0.0 
-Sentiment: Neutral 
 
 Article Title: 5 Examples of Using Artificial Intelligence in Education... 
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: University students feel ‘anxious, confused and distrustful’ about AI in the classroom and among their peers 
-Polarity: -0.325 
-Sentiment: Negative 
-
-Article Title: UCLA advisory committee will navigate AI’s opportunities and challenges in education 
+Article Title: Can AI tutoring 'transform how we close the attainment gap'? 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -1058,36 +1086,40 @@ Article Title: AI’s giants want to take over the classroom
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Education First offshoot Efekta launches AI language program 
-Polarity: 0.25 
-Sentiment: Positive 
+Article Title: Why AI Belongs in Every Skills Classroom: Training TVET Educators for a Smarter Future 
+Polarity: 0.0 
+Sentiment: Neutral 
 
-Article Title: Shaping inclusive AI futures in higher education 
-Polarity: 0.25 
-Sentiment: Positive 
+Article Title: Navigating Artificial Intelligence in Education: a brief guide for academies, schools and colleges 
+Polarity: -0.3 
+Sentiment: Negative 
 
 Article Title: UPDATE: CSBA task force provides resources to help school leaders better use AI 
 Polarity: 0.5 
 Sentiment: Positive 
 
+Article Title: AI in K-12 Education: Partners in Progress, Not Replacements 
+Polarity: 0.0 
+Sentiment: Neutral 
+
 Article Title: Federal funding delays threaten AI education and America’s tech future - K 
 Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: AI firm appoints new leader to drive growth in the education sector 
+Polarity: -0.03181818181818183 
 Sentiment: Neutral 
 
 Article Title: Teachers seeking instruction on AI in the classroom 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Half of Delhi students surveyed rely on AI for studies, but trust and access remain hurdles: Study 
-Polarity: -0.16666666666666666 
-Sentiment: Neutral 
+Article Title: England updates Keeping Children Safe in Education to include AI, cybersecurity, and digital misinformation 
+Polarity: 0.25 
+Sentiment: Positive 
 
-Article Title: 12 Student Team Finalists Advancing in AI Business Plan Competition Announced 
+Article Title: Schools using AI to personalise learning, finds Ofsted 
 Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: AI Is Coming for College Graduates. We Need to Be Ready. 
-Polarity: 0.2 
 Sentiment: Neutral 
 
 Article Title: AI Literacy is Imperative for Classroom Success - Teachers College 
@@ -1098,63 +1130,43 @@ Article Title: New York Passes the Responsible AI Safety and Education Act
 Polarity: 0.16818181818181818 
 Sentiment: Neutral 
 
-Article Title: University of Toronto professor plans to build 50 AI companies in five years 
+Article Title: Opinion: Is Big Tech Turning Education Into an AI Video Game? 
+Polarity: -0.2 
+Sentiment: Neutral 
+
+Article Title: Lloyds to run two-month Data and AI Summer School for employees 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Uni student accused of using AI in assignment fights to clear his name 
-Polarity: 0.09999999999999999 
-Sentiment: Neutral 
-
-Article Title: Opinion: Is Big Tech Turning Education Into an AI Video Game? 
-Polarity: -0.2 
+Article Title: Navigating AI in education together 
+Polarity: 0.0 
 Sentiment: Neutral 
 
 Article Title: How can AI enhance project-based learning? - K 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Universities Are Racing Toward AI. Is Anyone Watching the Road? 
+Article Title: The Future of AI in K-12 Education 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: AI is driving down the price of knowledge – universities have to rethink what they offer 
-Polarity: -0.15555555555555556 
+Article Title: Decidr partners with AIM to embed AI in education - Mi 
+Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: AI is running rampant on college campuses as professors and students lean on artificial intelligence 
+Article Title: How Ivy League Schools Are Navigating AI In The Classroom 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: AI revolution: How artificial intelligence is reshaping education and jobs in America 
 Polarity: -0.6 
 Sentiment: Negative 
-
-Article Title: Did Two University of Utah Professors Use AI to Take SLC's Streets Away? 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: Transformations in academic work and faculty perceptions of artificial intelligence in higher education 
-Polarity: -0.11666666666666665 
-Sentiment: Neutral 
-
-Article Title: We’re Losing the Plot on AI in Universities 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: New Mexico university to offer state's first artificial intelligence degree 
-Polarity: -0.07121212121212121 
-Sentiment: Neutral 
 
 Article Title: Bringing AI into the classroom 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: AI’s great brain robbery — and how universities can fight back 
-Polarity: 0.4 
-Sentiment: Positive 
-
-Article Title: The AI balancing act: universities, innovation and the art of not losing the plot 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: Student leaders tackle the future of AI 
+Article Title: In the News: Nationwide teacher shortages, positives of play and AI strategies for children 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -1166,27 +1178,39 @@ Article Title: How a Teacher Used an AI Tool to Help Her Students’ Reading Com
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: From tutors to teaching bots: the Peter Kirstein Lecture on AI in education 
+Article Title: URI to host statewide workshop on AI for teachers, administrators in K-12 education – Rhody Today 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: AI guardrails must be established in higher education class - San Antonio Express 
-Polarity: 0.25 
-Sentiment: Positive 
-
-Article Title: CMU, Pitt join other universities to study artificial intelligence’s impact on workforce 
-Polarity: -0.3625 
+Article Title: School's artificial intelligence helping raise kids' self esteem | ITV News 
+Polarity: -0.6 
 Sentiment: Negative 
+
+Article Title: From tutors to teaching bots: the Peter Kirstein Lecture on AI in education 
+Polarity: 0.0 
+Sentiment: Neutral 
 
 Article Title: When my student told me I sound like AI 
 Polarity: 0.4 
 Sentiment: Positive 
 
-Article Title: Cedarville University Approves Data Science and Artificial Intelligence Initiative 
+Article Title: School Leaders More Likely to Support AI Use by Teachers Than Students 
+Polarity: 0.25 
+Sentiment: Positive 
+
+Article Title: Factors influencing AI adoption by Chinese mathematics teachers in STEM education 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: Artificial intelligence in media, education 
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: Factors influencing AI adoption by Chinese mathematics teachers in STEM education 
+Article Title: (PDF) Artificial Intelligence Literacy in Higher Education: Theory and Practice from a European Perspective 
+Polarity: -0.11666666666666665 
+Sentiment: Neutral 
+
+Article Title: Gemini in Classroom: No-cost AI tools that amplify teaching and learning 
 Polarity: 0.0 
 Sentiment: Neutral 
 
@@ -1194,17 +1218,25 @@ Article Title: Ofsted identifies key points in use of AI in schools and further 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Beyond the Campus: Why Leading Universities Are Moving Their AI Infrastructure Off-Site 
+Article Title: Expanded access to Google Vids and no-cost AI tools in Classroom 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Delhi schools will soon have advanced education system with artificial intelligence smart boards and robo 
-Polarity: 0.004761904761904773 
+Article Title: Education Ministry Officials Briefed on the Use of Artificial Intelligence (AI) 
+Polarity: -0.6 
+Sentiment: Negative 
+
+Article Title: IPB University Launches Smart Classroom, Can Detect Student Saturation Level Through AI 
+Polarity: 0.21428571428571427 
+Sentiment: Positive 
+
+Article Title: IPS adopts new policy on AI as a teacher’s aid 
+Polarity: 0.13636363636363635 
 Sentiment: Neutral 
 
-Article Title: The Essential Role of "Friction" in Student-Facing Artificial Intelligence Products 
-Polarity: -0.3 
-Sentiment: Negative 
+Article Title: Advances in AI-Powered Education Tools and Their Impact on Learning - The North 
+Polarity: 0.0 
+Sentiment: Neutral 
 
 Article Title: Leading the Way on AI in the Classroom 
 Polarity: 0.0 
@@ -1214,67 +1246,59 @@ Article Title: AI in Schools: Opportunities, Challenges & Realities for the Futu
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Cemtrex's AI-Powered Security Camera Captures 3 Major Awards, Including Top Education Security Honor 
-Polarity: 0.28125 
-Sentiment: Positive 
-
-Article Title: Troy University to help Economic Development of Southeast Counties with Artificial Intelligence 
-Polarity: -0.19999999999999998 
+Article Title: Pearson and Google team up to bring AI learning tools to classrooms 
+Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Troy University educates the Wiregrass on artificial intelligence 
-Polarity: -0.6 
-Sentiment: Negative 
+Article Title: Healey-Driscoll Administration Launches ‘Future Ready: AI in the Classroom’ for Educators 
+Polarity: 0.1 
+Sentiment: Neutral 
 
 Article Title: Learning with Artificial Intelligence: 8 ways it’s rewiring how students think 
 Polarity: -0.6 
 Sentiment: Negative 
 
+Article Title: Why toddlers are better than AI at learning language 
+Polarity: 0.5 
+Sentiment: Positive 
+
 Article Title: Artificial intelligence for determining learning strategies in university students 
 Polarity: -0.6 
 Sentiment: Negative 
 
-Article Title: There’s no simple solution to universities’ AI worries | Letters 
-Polarity: 0.0 
-Sentiment: Neutral 
-
-Article Title: How the U of A became Canada’s top AI university 
-Polarity: 0.5 
-Sentiment: Positive 
-
-Article Title: AI in higher education is driving a shift toward lifelong learning, Northeastern president says 
-Polarity: 0.075 
-Sentiment: Neutral 
+Article Title: Artificial Intelligence policy finalized for the coming school year 
+Polarity: -0.6 
+Sentiment: Negative 
 
 Article Title: AI is in every NSW public school classroom. Is that a good thing? 
 Polarity: 0.35 
 Sentiment: Positive 
 
+Article Title: MINISTER TEKİN ATTENDS THE "MINISTERS OF EDUCATION SESSION" ON "ARTIFICIAL INTELLIGENCE" 
+Polarity: -0.6 
+Sentiment: Negative 
+
 Article Title: Is AI education a priority for the U.S.? 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: Opinion: In the AI revolution, universities are up against the wall 
+Article Title: (PDF) A Self-Efficacy Theory-Based Study on the Teachers’ Readiness to Teach Artificial Intelligence in Public Schools in Sri Lanka 
+Polarity: -0.3 
+Sentiment: Negative 
+
+Article Title: AI classrooms: The future of education 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: How AI Is Helping Students Find the Right College 
-Polarity: 0.2857142857142857 
-Sentiment: Positive 
-
-Article Title: UWM offers new engineering master’s degree in artificial intelligence and machine learning - UW 
-Polarity: -0.12121212121212122 
+Article Title: Local nonprofit brings artificial intelligence education to elementary students 
+Polarity: -0.09999999999999999 
 Sentiment: Neutral 
 
-Article Title: Peter Kirstein Lecture with Professor Tom Mitchell: Where Can AI take Education by 2030? 
+Article Title: AI in Ohio's Education 
 Polarity: 0.0 
 Sentiment: Neutral 
 
-Article Title: University of Oklahoma to Launch 20 New AI Projects 
-Polarity: 0.13636363636363635 
-Sentiment: Neutral 
-
-Article Title: Towards an Institutional Framework for the Adoption of Artificial Intelligence in Latin American Universities - Inter 
+Article Title: (PDF) Artificial Intelligence in Education Transforming Learning for the Future 
 Polarity: -0.3 
 Sentiment: Negative 
 
@@ -1283,6 +1307,10 @@ Polarity: 0.7
 Sentiment: Positive 
 
 Article Title: How I Plan to Use AI in the Classroom This Fall 
+Polarity: 0.0 
+Sentiment: Neutral 
+
+Article Title: How AI and Charter Schools Could Close the Tutoring Gap 
 Polarity: 0.0 
 Sentiment: Neutral 
 
